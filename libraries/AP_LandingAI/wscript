@@ -1,0 +1,4 @@
+def build(bld):
+    bld.ap_library(
+        ap_libraries=bld.ap_common_vehicle_libraries(),
+    )

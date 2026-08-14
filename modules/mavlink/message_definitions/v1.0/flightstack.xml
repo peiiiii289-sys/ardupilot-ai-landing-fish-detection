@@ -1,0 +1,54 @@
+<?xml version="1.0"?>
+<mavlink>
+  <enums>
+    <enum name="MAV_COMPONENT">
+      <entry value="211" name="MAV_COMP_ID_UNICO_AI_COMPUTER">
+        <description>AI computer component</description>
+      </entry>
+    </enum>
+
+    <enum name="AI_LANDING_FRAME">
+      <entry value="200" name="AI_LANDING_FRAME_CAMERA_FRD">
+        <description>Camera FRD frame</description>
+      </entry>
+    </enum>
+  </enums>
+
+  <messages>
+    <message id="52100" name="AI_LANDING_CORRECTION">
+      <description>AI landing correction from AI module to flight controller</description>
+      <field type="uint32_t" name="time_boot_ms">Timestamp since AI boot</field>
+      <field type="float" name="roll_err">Roll correction in rad</field>
+      <field type="float" name="pitch_err">Pitch correction in rad</field>
+      <field type="float" name="yaw_err">Yaw correction in rad</field>
+      <field type="float" name="x_err">Forward/backward error in m</field>
+      <field type="float" name="y_err">Right/left error in m</field>
+      <field type="float" name="z_err">Down/up error in m</field>
+      <field type="float" name="distance">Distance to landing point in m</field>
+      <field type="float" name="confidence">0-1 confidence</field>
+      <field type="uint8_t" name="frame">AI_LANDING_FRAME</field>
+      <field type="uint8_t" name="flags">bit0=yaw_valid bit1=distance_valid</field>
+    </message>
+
+    <message id="52102" name="AI_LANDING_STATUS">
+      <description>AI landing health/status from AI module to flight controller</description>
+      <field type="uint32_t" name="time_boot_ms">Timestamp since AI boot</field>
+      <field type="float" name="visual_confidence">0-1 confidence</field>
+      <field type="uint8_t" name="target_lost">1 if target lost</field>
+      <field type="float" name="reproj_error">Reprojection error</field>
+      <field type="float" name="covariance">Pose covariance</field>
+    </message>
+
+    <message id="52101" name="AI_FISH_DETECTION_RESULT">
+      <description>Fish detection summary result</description>
+      <field type="uint32_t" name="time_boot_ms">Timestamp (ms)</field>
+      <field type="uint16_t" name="image_width">Image width</field>
+      <field type="uint16_t" name="image_height">Image height</field>
+      <field type="float" name="fish_coverage_pct">Fish coverage percentage (0-100)</field>
+      <field type="uint16_t" name="fish_count">Number of fish</field>
+      <field type="float" name="tuna_similarity_pct">Tuna similarity (0-100)</field>
+      <field type="uint16_t" name="bird_count">Bird count</field>
+      <field type="float" name="inference_fps">Inference FPS</field>
+    </message>
+  </messages>
+</mavlink>

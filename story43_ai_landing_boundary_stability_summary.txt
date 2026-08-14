@@ -1,0 +1,722 @@
+42:QLAND> Mode QLAND
+47:AP: QLAND AI pitch=0.000 conf=0.00 lost=0 inject=0.0 ok=0
+48:AP: AI_CAM_OFF raw=(0.00,0.00,0.00) corr=(0.00,0.00,0.00)
+49:AP: AI_CTRL_USE xyz=(0.00,0.00,0.00)
+50:AP: QLOITER ENTER
+52:AP: AI_CORR_FALLBACK recent=0 corr_conf=0.00 status_conf=0.00
+54:AP: QLAND AI pitch=0.000 conf=0.00 lost=0 inject=0.0 ok=0
+55:AP: AI_CAM_OFF raw=(0.00,0.00,0.00) corr=(0.00,0.00,0.00)
+56:AP: AI_CTRL_USE xyz=(0.00,0.00,0.00)
+57:AP: QLOITER ENTER
+59:AP: AI_CORR_FALLBACK recent=0 corr_conf=0.00 status_conf=0.00
+62:AP: QLAND AI pitch=0.000 conf=0.00 lost=0 inject=0.0 ok=0
+63:AP: AI_CAM_OFF raw=(0.00,0.00,0.00) corr=(0.00,0.00,0.00)
+64:AP: AI_CTRL_USE xyz=(0.00,0.00,0.00)
+65:AP: QLOITER ENTER
+67:AP: AI_CORR_FALLBACK recent=0 corr_conf=0.00 status_conf=0.00
+68:AP: AI_STAT conf=0.90 lost=0 reproj=0.05 cov=0.02 L1=0 L2=0 L3=0 reason=0
+69:AP: AI_CORR conf=0.90 dist=2.50
+71:AP: AI_STAT conf=0.90 lost=0 reproj=0.05 cov=0.02 L1=0 L2=0 L3=0 reason=0
+72:AP: AI_CORR conf=0.90 dist=2.50
+73:AP: AI_STAT conf=0.90 lost=0 reproj=0.05 cov=0.02 L1=0 L2=0 L3=0 reason=0
+74:AP: AI_CORR conf=0.90 dist=2.50
+75:AP: AI_STAT conf=0.90 lost=0 reproj=0.05 cov=0.02 L1=0 L2=0 L3=0 reason=0
+76:AP: AI_CORR conf=0.90 dist=2.50
+77:AP: AI_STAT conf=0.90 lost=0 reproj=0.05 cov=0.02 L1=0 L2=0 L3=0 reason=0
+78:AP: AI_CORR conf=0.90 dist=2.50
+80:AP: QLAND AI pitch=-0.020 conf=0.90 lost=0 inject=-34.4 ok=1
+81:AP: AI_CAM_OFF raw=(1.00,2.00,3.00) corr=(2.00,4.00,6.00)
+82:AP: AI_CTRL_USE xyz=(2.00,4.00,6.00)
+83:AP: QLOITER ENTER
+85:AP: AI_STAT conf=0.90 lost=0 reproj=0.05 cov=0.02 L1=0 L2=0 L3=0 reason=0
+86:AP: AI_CORR conf=0.90 dist=2.50
+87:AP: AI_STAT conf=0.90 lost=0 reproj=0.05 cov=0.02 L1=0 L2=0 L3=0 reason=0
+88:AP: AI_CORR conf=0.90 dist=2.50
+89:AP: AI_STAT conf=0.90 lost=0 reproj=0.05 cov=0.02 L1=0 L2=0 L3=0 reason=0
+90:AP: AI_CORR conf=0.90 dist=2.50
+91:AP: AI_STAT conf=0.90 lost=0 reproj=0.05 cov=0.02 L1=0 L2=0 L3=0 reason=0
+92:AP: AI_CORR conf=0.90 dist=2.50
+93:AP: AI_STAT conf=0.90 lost=0 reproj=0.05 cov=0.02 L1=0 L2=0 L3=0 reason=0
+94:AP: AI_CORR conf=0.90 dist=2.50
+96:AP: AI_STAT conf=0.90 lost=0 reproj=0.05 cov=0.02 L1=0 L2=0 L3=0 reason=0
+97:AP: AI_CORR conf=0.90 dist=2.50
+98:AP: AI_STAT conf=0.90 lost=0 reproj=0.05 cov=0.02 L1=0 L2=0 L3=0 reason=0
+99:AP: AI_CORR conf=0.90 dist=2.50
+100:AP: AI_STAT conf=0.90 lost=0 reproj=0.05 cov=0.02 L1=0 L2=0 L3=0 reason=0
+101:AP: AI_CORR conf=0.90 dist=2.50
+102:AP: AI_STAT conf=0.90 lost=0 reproj=0.05 cov=0.02 L1=0 L2=0 L3=0 reason=0
+103:AP: AI_CORR conf=0.90 dist=2.50
+104:AP: AI_STAT conf=0.90 lost=0 reproj=0.05 cov=0.02 L1=0 L2=0 L3=0 reason=0
+105:AP: AI_CORR conf=0.90 dist=2.50
+107:AP: QLAND AI pitch=-0.020 conf=0.90 lost=0 inject=-34.4 ok=1
+108:AP: AI_CAM_OFF raw=(1.00,2.00,3.00) corr=(2.00,4.00,6.00)
+109:AP: AI_CTRL_USE xyz=(2.00,4.00,6.00)
+110:AP: QLOITER ENTER
+112:AP: AI_STAT conf=0.90 lost=0 reproj=0.05 cov=0.02 L1=0 L2=0 L3=0 reason=0
+113:AP: AI_CORR conf=0.90 dist=2.50
+114:AP: AI_STAT conf=0.90 lost=0 reproj=0.05 cov=0.02 L1=0 L2=0 L3=0 reason=0
+115:AP: AI_CORR conf=0.90 dist=2.50
+116:AP: AI_STAT conf=0.90 lost=0 reproj=0.05 cov=0.02 L1=0 L2=0 L3=0 reason=0
+117:AP: AI_CORR conf=0.90 dist=2.50
+118:AP: AI_STAT conf=0.90 lost=0 reproj=0.05 cov=0.02 L1=0 L2=0 L3=0 reason=0
+119:AP: AI_CORR conf=0.90 dist=2.50
+120:AP: AI_STAT conf=0.90 lost=0 reproj=0.05 cov=0.02 L1=0 L2=0 L3=0 reason=0
+121:AP: AI_CORR conf=0.90 dist=2.50
+123:AP: AI_STAT conf=0.90 lost=0 reproj=0.05 cov=0.02 L1=0 L2=0 L3=0 reason=0
+124:AP: AI_CORR conf=0.90 dist=2.50
+125:AP: AI_STAT conf=0.90 lost=0 reproj=0.05 cov=0.02 L1=0 L2=0 L3=0 reason=0
+126:AP: AI_CORR conf=0.90 dist=2.50
+127:AP: AI_STAT conf=0.90 lost=0 reproj=0.05 cov=0.02 L1=0 L2=0 L3=0 reason=0
+128:AP: AI_CORR conf=0.90 dist=2.50
+129:AP: AI_STAT conf=0.90 lost=0 reproj=0.05 cov=0.02 L1=0 L2=0 L3=0 reason=0
+130:AP: AI_CORR conf=0.90 dist=2.50
+131:AP: AI_STAT conf=0.90 lost=0 reproj=0.05 cov=0.02 L1=0 L2=0 L3=0 reason=0
+132:AP: AI_CORR conf=0.90 dist=2.50
+134:AP: QLAND AI pitch=-0.020 conf=0.90 lost=0 inject=-34.4 ok=1
+135:AP: AI_CAM_OFF raw=(1.00,2.00,3.00) corr=(2.00,4.00,6.00)
+136:AP: AI_CTRL_USE xyz=(2.00,4.00,6.00)
+137:AP: QLOITER ENTER
+139:AP: AI_STAT conf=0.90 lost=0 reproj=0.05 cov=0.02 L1=0 L2=0 L3=0 reason=0
+140:AP: AI_CORR conf=0.90 dist=2.50
+141:AP: AI_STAT conf=0.90 lost=0 reproj=0.05 cov=0.02 L1=0 L2=0 L3=0 reason=0
+142:AP: AI_CORR conf=0.90 dist=2.50
+143:AP: AI_STAT conf=0.90 lost=0 reproj=0.05 cov=0.02 L1=0 L2=0 L3=0 reason=0
+144:AP: AI_CORR conf=0.90 dist=2.50
+145:AP: AI_STAT conf=0.90 lost=0 reproj=0.05 cov=0.02 L1=0 L2=0 L3=0 reason=0
+146:AP: AI_CORR conf=0.90 dist=2.50
+147:AP: AI_STAT conf=0.90 lost=0 reproj=0.05 cov=0.02 L1=0 L2=0 L3=0 reason=0
+148:AP: AI_CORR conf=0.90 dist=2.50
+149:AP: AI_STAT conf=0.95 lost=0 reproj=0.03 cov=0.01 L1=0 L2=0 L3=0 reason=0
+150:AP: AI_CORR conf=0.95 dist=1.20
+152:AP: AI_STAT conf=0.95 lost=0 reproj=0.03 cov=0.01 L1=0 L2=0 L3=0 reason=0
+153:AP: AI_CORR conf=0.95 dist=1.20
+154:AP: AI_STAT conf=0.95 lost=0 reproj=0.03 cov=0.01 L1=0 L2=0 L3=0 reason=0
+155:AP: AI_CORR conf=0.95 dist=1.20
+156:AP: AI_STAT conf=0.95 lost=0 reproj=0.03 cov=0.01 L1=0 L2=0 L3=0 reason=0
+157:AP: AI_CORR conf=0.95 dist=1.20
+158:AP: AI_STAT conf=0.95 lost=0 reproj=0.03 cov=0.01 L1=0 L2=0 L3=0 reason=0
+159:AP: AI_CORR conf=0.95 dist=1.20
+161:AP: QLAND AI pitch=-0.010 conf=0.95 lost=0 inject=-17.2 ok=1
+162:AP: AI_CAM_OFF raw=(0.20,0.30,0.50) corr=(1.20,2.30,3.50)
+163:AP: AI_CTRL_USE xyz=(1.20,2.30,3.50)
+164:AP: QLOITER ENTER
+166:AP: AI_STAT conf=0.95 lost=0 reproj=0.03 cov=0.01 L1=0 L2=0 L3=0 reason=0
+167:AP: AI_CORR conf=0.95 dist=1.20
+168:AP: AI_STAT conf=0.95 lost=0 reproj=0.03 cov=0.01 L1=0 L2=0 L3=0 reason=0
+169:AP: AI_CORR conf=0.95 dist=1.20
+170:AP: AI_STAT conf=0.95 lost=0 reproj=0.03 cov=0.01 L1=0 L2=0 L3=0 reason=0
+171:AP: AI_CORR conf=0.95 dist=1.20
+172:AP: AI_STAT conf=0.95 lost=0 reproj=0.03 cov=0.01 L1=0 L2=0 L3=0 reason=0
+173:AP: AI_CORR conf=0.95 dist=1.20
+174:AP: AI_STAT conf=0.95 lost=0 reproj=0.03 cov=0.01 L1=0 L2=0 L3=0 reason=0
+175:AP: AI_CORR conf=0.95 dist=1.20
+176:AP: AI_STAT conf=0.95 lost=0 reproj=0.03 cov=0.01 L1=0 L2=0 L3=0 reason=0
+177:AP: AI_CORR conf=0.95 dist=1.20
+179:AP: AI_STAT conf=0.95 lost=0 reproj=0.03 cov=0.01 L1=0 L2=0 L3=0 reason=0
+180:AP: AI_CORR conf=0.95 dist=1.20
+181:AP: AI_STAT conf=0.95 lost=0 reproj=0.03 cov=0.01 L1=0 L2=0 L3=0 reason=0
+182:AP: AI_CORR conf=0.95 dist=1.20
+183:AP: AI_STAT conf=0.95 lost=0 reproj=0.03 cov=0.01 L1=0 L2=0 L3=0 reason=0
+184:AP: AI_CORR conf=0.95 dist=1.20
+185:AP: AI_STAT conf=0.95 lost=0 reproj=0.03 cov=0.01 L1=0 L2=0 L3=0 reason=0
+186:AP: AI_CORR conf=0.95 dist=1.20
+188:AP: QLAND AI pitch=-0.010 conf=0.95 lost=0 inject=-17.2 ok=1
+189:AP: AI_CAM_OFF raw=(0.20,0.30,0.50) corr=(1.20,2.30,3.50)
+190:AP: AI_CTRL_USE xyz=(1.20,2.30,3.50)
+191:AP: QLOITER ENTER
+193:AP: AI_STAT conf=0.95 lost=0 reproj=0.03 cov=0.01 L1=0 L2=0 L3=0 reason=0
+194:AP: AI_CORR conf=0.95 dist=1.20
+195:AP: AI_STAT conf=0.95 lost=0 reproj=0.03 cov=0.01 L1=0 L2=0 L3=0 reason=0
+196:AP: AI_CORR conf=0.95 dist=1.20
+197:AP: AI_STAT conf=0.95 lost=0 reproj=0.03 cov=0.01 L1=0 L2=0 L3=0 reason=0
+198:AP: AI_CORR conf=0.95 dist=1.20
+199:AP: AI_STAT conf=0.95 lost=0 reproj=0.03 cov=0.01 L1=0 L2=0 L3=0 reason=0
+200:AP: AI_CORR conf=0.95 dist=1.20
+201:AP: AI_STAT conf=0.95 lost=0 reproj=0.03 cov=0.01 L1=0 L2=0 L3=0 reason=0
+202:AP: AI_CORR conf=0.95 dist=1.20
+203:AP: AI_STAT conf=0.95 lost=0 reproj=0.03 cov=0.01 L1=0 L2=0 L3=0 reason=0
+204:AP: AI_CORR conf=0.95 dist=9.00
+206:AP: AI_STAT conf=0.95 lost=0 reproj=0.03 cov=0.01 L1=0 L2=0 L3=0 reason=0
+207:AP: AI_CORR conf=0.95 dist=9.00
+208:AP: AI_STAT conf=0.95 lost=0 reproj=0.03 cov=0.01 L1=0 L2=0 L3=0 reason=0
+209:AP: AI_CORR conf=0.95 dist=9.00
+210:AP: AI_STAT conf=0.95 lost=0 reproj=0.03 cov=0.01 L1=0 L2=0 L3=0 reason=0
+211:AP: AI_CORR conf=0.95 dist=9.00
+212:AP: AI_STAT conf=0.95 lost=0 reproj=0.03 cov=0.01 L1=0 L2=0 L3=0 reason=0
+213:AP: AI_CORR conf=0.95 dist=9.00
+215:AP: QLAND AI pitch=-0.200 conf=0.95 lost=0 inject=-171.9 ok=1
+216:AP: AI_CAM_OFF raw=(8.00,-8.00,6.00) corr=(9.00,-6.00,9.00)
+217:AP: AI_CTRL_USE xyz=(9.00,-6.00,9.00)
+218:AP: QLOITER ENTER
+220:AP: AI_STAT conf=0.95 lost=0 reproj=0.03 cov=0.01 L1=0 L2=0 L3=0 reason=0
+221:AP: AI_CORR conf=0.95 dist=9.00
+222:AP: AI_STAT conf=0.95 lost=0 reproj=0.03 cov=0.01 L1=0 L2=0 L3=0 reason=0
+223:AP: AI_CORR conf=0.95 dist=9.00
+224:AP: AI_STAT conf=0.95 lost=0 reproj=0.03 cov=0.01 L1=0 L2=0 L3=0 reason=0
+225:AP: AI_CORR conf=0.95 dist=9.00
+226:AP: AI_STAT conf=0.95 lost=0 reproj=0.03 cov=0.01 L1=0 L2=0 L3=0 reason=0
+227:AP: AI_CORR conf=0.95 dist=9.00
+228:AP: AI_STAT conf=0.95 lost=0 reproj=0.03 cov=0.01 L1=0 L2=0 L3=0 reason=0
+229:AP: AI_CORR conf=0.95 dist=9.00
+230:AP: AI_STAT conf=0.95 lost=0 reproj=0.03 cov=0.01 L1=0 L2=0 L3=0 reason=0
+231:AP: AI_CORR conf=0.95 dist=9.00
+233:AP: AI_STAT conf=0.95 lost=0 reproj=0.03 cov=0.01 L1=0 L2=0 L3=0 reason=0
+234:AP: AI_CORR conf=0.95 dist=9.00
+235:AP: AI_STAT conf=0.95 lost=0 reproj=0.03 cov=0.01 L1=0 L2=0 L3=0 reason=0
+236:AP: AI_CORR conf=0.95 dist=9.00
+237:AP: AI_STAT conf=0.95 lost=0 reproj=0.03 cov=0.01 L1=0 L2=0 L3=0 reason=0
+238:AP: AI_CORR conf=0.95 dist=9.00
+239:AP: AI_STAT conf=0.95 lost=0 reproj=0.03 cov=0.01 L1=0 L2=0 L3=0 reason=0
+240:AP: AI_CORR conf=0.95 dist=9.00
+242:AP: QLAND AI pitch=-0.200 conf=0.95 lost=0 inject=-171.9 ok=1
+243:AP: AI_CAM_OFF raw=(8.00,-8.00,6.00) corr=(9.00,-6.00,9.00)
+244:AP: AI_CTRL_USE xyz=(9.00,-6.00,9.00)
+245:AP: QLOITER ENTER
+247:AP: AI_STAT conf=0.95 lost=0 reproj=0.03 cov=0.01 L1=0 L2=0 L3=0 reason=0
+248:AP: AI_CORR conf=0.95 dist=9.00
+250:AP: AI_STAT conf=0.95 lost=0 reproj=0.03 cov=0.01 L1=0 L2=0 L3=0 reason=0
+251:AP: AI_CORR conf=0.95 dist=9.00
+252:AP: AI_STAT conf=0.95 lost=0 reproj=0.03 cov=0.01 L1=0 L2=0 L3=0 reason=0
+253:AP: AI_CORR conf=0.95 dist=9.00
+254:AP: AI_STAT conf=0.95 lost=0 reproj=0.03 cov=0.01 L1=0 L2=0 L3=0 reason=0
+255:AP: AI_CORR conf=0.95 dist=9.00
+256:AP: AI_STAT conf=0.95 lost=0 reproj=0.03 cov=0.01 L1=0 L2=0 L3=0 reason=0
+257:AP: AI_CORR conf=0.95 dist=9.00
+258:AP: AI_STAT conf=0.95 lost=0 reproj=0.03 cov=0.01 L1=0 L2=0 L3=0 reason=0
+259:AP: AI_CORR conf=0.95 dist=9.00
+261:AP: AI_STAT conf=0.95 lost=0 reproj=0.03 cov=0.01 L1=0 L2=0 L3=0 reason=0
+262:AP: AI_CORR conf=0.95 dist=9.00
+263:AP: AI_STAT conf=0.95 lost=0 reproj=0.03 cov=0.01 L1=0 L2=0 L3=0 reason=0
+264:AP: AI_CORR conf=0.95 dist=9.00
+265:AP: AI_STAT conf=0.95 lost=0 reproj=0.03 cov=0.01 L1=0 L2=0 L3=0 reason=0
+266:AP: AI_CORR conf=0.95 dist=9.00
+267:AP: AI_STAT conf=0.95 lost=0 reproj=0.03 cov=0.01 L1=0 L2=0 L3=0 reason=0
+268:AP: AI_CORR conf=0.95 dist=9.00
+270:AP: QLAND AI pitch=-0.200 conf=0.95 lost=0 inject=-171.9 ok=1
+271:AP: AI_CAM_OFF raw=(8.00,-8.00,6.00) corr=(9.00,-6.00,9.00)
+272:AP: AI_CTRL_USE xyz=(9.00,-6.00,9.00)
+273:AP: QLOITER ENTER
+275:AP: AI_STAT conf=0.95 lost=0 reproj=0.03 cov=0.01 L1=0 L2=0 L3=0 reason=0
+276:AP: AI_CORR conf=0.95 dist=9.00
+277:AP: AI_STAT conf=0.95 lost=0 reproj=0.03 cov=0.01 L1=0 L2=0 L3=0 reason=0
+278:AP: AI_CORR conf=0.95 dist=9.00
+279:AP: AI_STAT conf=0.95 lost=0 reproj=0.03 cov=0.01 L1=0 L2=0 L3=0 reason=0
+280:AP: AI_CORR conf=0.95 dist=9.00
+281:AP: AI_STAT conf=0.95 lost=0 reproj=0.03 cov=0.01 L1=0 L2=0 L3=0 reason=0
+282:AP: AI_CORR conf=0.95 dist=9.00
+283:AP: AI_STAT conf=0.95 lost=0 reproj=0.03 cov=0.01 L1=0 L2=0 L3=0 reason=0
+284:AP: AI_CORR conf=0.95 dist=9.00
+285:AP: AI_STAT conf=0.90 lost=0 reproj=0.05 cov=0.02 L1=0 L2=0 L3=0 reason=0
+286:AP: AI_CORR conf=0.90 dist=2.50
+288:AP: AI_STAT conf=0.90 lost=0 reproj=0.05 cov=0.02 L1=0 L2=0 L3=0 reason=0
+289:AP: AI_CORR conf=0.90 dist=2.50
+290:AP: AI_STAT conf=0.90 lost=0 reproj=0.05 cov=0.02 L1=0 L2=0 L3=0 reason=0
+291:AP: AI_CORR conf=0.90 dist=2.50
+292:AP: AI_STAT conf=0.90 lost=0 reproj=0.05 cov=0.02 L1=0 L2=0 L3=0 reason=0
+293:AP: AI_CORR conf=0.90 dist=2.50
+294:AP: AI_STAT conf=0.90 lost=0 reproj=0.05 cov=0.02 L1=0 L2=0 L3=0 reason=0
+295:AP: AI_CORR conf=0.90 dist=2.50
+297:AP: QLAND AI pitch=-0.020 conf=0.90 lost=0 inject=-34.4 ok=1
+298:AP: AI_CAM_OFF raw=(1.00,2.00,3.00) corr=(2.00,4.00,6.00)
+299:AP: AI_CTRL_USE xyz=(2.00,4.00,6.00)
+300:AP: QLOITER ENTER
+302:AP: AI_STAT conf=0.90 lost=0 reproj=0.05 cov=0.02 L1=0 L2=0 L3=0 reason=0
+303:AP: AI_CORR conf=0.90 dist=2.50
+304:AP: AI_STAT conf=0.90 lost=0 reproj=0.05 cov=0.02 L1=0 L2=0 L3=0 reason=0
+305:AP: AI_CORR conf=0.90 dist=2.50
+306:AP: AI_STAT conf=0.90 lost=0 reproj=0.05 cov=0.02 L1=0 L2=0 L3=0 reason=0
+307:AP: AI_CORR conf=0.90 dist=2.50
+308:AP: AI_STAT conf=0.90 lost=0 reproj=0.05 cov=0.02 L1=0 L2=0 L3=0 reason=0
+309:AP: AI_CORR conf=0.90 dist=2.50
+310:AP: AI_STAT conf=0.90 lost=0 reproj=0.05 cov=0.02 L1=0 L2=0 L3=0 reason=0
+311:AP: AI_CORR conf=0.90 dist=2.50
+312:AP: AI_STAT conf=0.90 lost=0 reproj=0.05 cov=0.02 L1=0 L2=0 L3=0 reason=0
+313:AP: AI_CORR conf=0.90 dist=2.50
+315:AP: AI_STAT conf=0.90 lost=0 reproj=0.05 cov=0.02 L1=0 L2=0 L3=0 reason=0
+316:AP: AI_CORR conf=0.90 dist=2.50
+317:AP: AI_STAT conf=0.90 lost=0 reproj=0.05 cov=0.02 L1=0 L2=0 L3=0 reason=0
+318:AP: AI_CORR conf=0.90 dist=2.50
+319:AP: AI_STAT conf=0.90 lost=0 reproj=0.05 cov=0.02 L1=0 L2=0 L3=0 reason=0
+320:AP: AI_CORR conf=0.90 dist=2.50
+321:AP: AI_STAT conf=0.90 lost=0 reproj=0.05 cov=0.02 L1=0 L2=0 L3=0 reason=0
+322:AP: AI_CORR conf=0.90 dist=2.50
+324:AP: QLAND AI pitch=-0.020 conf=0.90 lost=0 inject=-34.4 ok=1
+325:AP: AI_CAM_OFF raw=(1.00,2.00,3.00) corr=(2.00,4.00,6.00)
+326:AP: AI_CTRL_USE xyz=(2.00,4.00,6.00)
+327:AP: QLOITER ENTER
+329:AP: AI_STAT conf=0.90 lost=0 reproj=0.05 cov=0.02 L1=0 L2=0 L3=0 reason=0
+330:AP: AI_CORR conf=0.90 dist=2.50
+331:AP: AI_STAT conf=0.90 lost=0 reproj=0.05 cov=0.02 L1=0 L2=0 L3=0 reason=0
+332:AP: AI_CORR conf=0.90 dist=2.50
+333:AP: AI_STAT conf=0.90 lost=0 reproj=0.05 cov=0.02 L1=0 L2=0 L3=0 reason=0
+334:AP: AI_CORR conf=0.90 dist=2.50
+335:AP: AI_STAT conf=0.90 lost=0 reproj=0.05 cov=0.02 L1=0 L2=0 L3=0 reason=0
+336:AP: AI_CORR conf=0.90 dist=2.50
+337:AP: AI_STAT conf=0.90 lost=0 reproj=0.05 cov=0.02 L1=0 L2=0 L3=0 reason=0
+338:AP: AI_CORR conf=0.90 dist=2.50
+340:AP: AI_STAT conf=0.90 lost=0 reproj=0.05 cov=0.02 L1=0 L2=0 L3=0 reason=0
+341:AP: AI_LANDING_CORR_INVALID flags=0 yaw_valid=0 distance_valid=0
+342:AP: AI_CORR conf=0.90 dist=2.50
+343:AP: AI_STAT conf=0.90 lost=0 reproj=0.05 cov=0.02 L1=0 L2=0 L3=0 reason=0
+344:AP: AI_LANDING_CORR_INVALID flags=0 yaw_valid=0 distance_valid=0
+345:AP: AI_CORR conf=0.90 dist=2.50
+346:AP: AI_STAT conf=0.90 lost=0 reproj=0.05 cov=0.02 L1=0 L2=0 L3=0 reason=0
+347:AP: AI_LANDING_CORR_INVALID flags=0 yaw_valid=0 distance_valid=0
+348:AP: AI_CORR conf=0.90 dist=2.50
+349:AP: AI_STAT conf=0.90 lost=0 reproj=0.05 cov=0.02 L1=0 L2=0 L3=0 reason=0
+350:AP: AI_LANDING_CORR_INVALID flags=0 yaw_valid=0 distance_valid=0
+351:AP: AI_CORR conf=0.90 dist=2.50
+352:AP: AI_STAT conf=0.90 lost=0 reproj=0.05 cov=0.02 L1=0 L2=0 L3=0 reason=0
+353:AP: AI_LANDING_CORR_INVALID flags=0 yaw_valid=0 distance_valid=0
+354:AP: AI_CORR conf=0.90 dist=2.50
+356:AP: QLAND AI pitch=-0.020 conf=0.90 lost=0 inject=-34.4 ok=1
+357:AP: AI_CAM_OFF raw=(1.00,2.00,3.00) corr=(2.00,4.00,6.00)
+358:AP: AI_CTRL_USE xyz=(2.00,4.00,6.00)
+359:AP: QLOITER ENTER
+361:AP: AI_STAT conf=0.90 lost=0 reproj=0.05 cov=0.02 L1=0 L2=0 L3=0 reason=0
+362:AP: AI_LANDING_CORR_INVALID flags=0 yaw_valid=0 distance_valid=0
+363:AP: AI_CORR conf=0.90 dist=2.50
+364:AP: AI_STAT conf=0.90 lost=0 reproj=0.05 cov=0.02 L1=0 L2=0 L3=0 reason=0
+365:AP: AI_LANDING_CORR_INVALID flags=0 yaw_valid=0 distance_valid=0
+366:AP: AI_CORR conf=0.90 dist=2.50
+367:AP: AI_STAT conf=0.90 lost=0 reproj=0.05 cov=0.02 L1=0 L2=0 L3=0 reason=0
+368:AP: AI_LANDING_CORR_INVALID flags=0 yaw_valid=0 distance_valid=0
+369:AP: AI_CORR conf=0.90 dist=2.50
+370:AP: AI_STAT conf=0.90 lost=0 reproj=0.05 cov=0.02 L1=0 L2=0 L3=0 reason=0
+371:AP: AI_LANDING_CORR_INVALID flags=0 yaw_valid=0 distance_valid=0
+372:AP: AI_CORR conf=0.90 dist=2.50
+373:AP: AI_STAT conf=0.90 lost=0 reproj=0.05 cov=0.02 L1=0 L2=0 L3=0 reason=0
+374:AP: AI_LANDING_CORR_INVALID flags=0 yaw_valid=0 distance_valid=0
+375:AP: AI_CORR conf=0.90 dist=2.50
+377:AP: AI_STAT conf=0.90 lost=0 reproj=0.05 cov=0.02 L1=0 L2=0 L3=0 reason=0
+378:AP: AI_LANDING_CORR_INVALID flags=0 yaw_valid=0 distance_valid=0
+379:AP: AI_CORR conf=0.90 dist=2.50
+380:AP: AI_STAT conf=0.90 lost=0 reproj=0.05 cov=0.02 L1=0 L2=0 L3=0 reason=0
+381:AP: AI_LANDING_CORR_INVALID flags=0 yaw_valid=0 distance_valid=0
+382:AP: AI_CORR conf=0.90 dist=2.50
+383:AP: AI_STAT conf=0.90 lost=0 reproj=0.05 cov=0.02 L1=0 L2=0 L3=0 reason=0
+384:AP: AI_LANDING_CORR_INVALID flags=0 yaw_valid=0 distance_valid=0
+385:AP: AI_CORR conf=0.90 dist=2.50
+386:AP: AI_STAT conf=0.90 lost=0 reproj=0.05 cov=0.02 L1=0 L2=0 L3=0 reason=0
+387:AP: AI_LANDING_CORR_INVALID flags=0 yaw_valid=0 distance_valid=0
+388:AP: AI_CORR conf=0.90 dist=2.50
+389:AP: AI_STAT conf=0.90 lost=0 reproj=0.05 cov=0.02 L1=0 L2=0 L3=0 reason=0
+390:AP: AI_LANDING_CORR_INVALID flags=0 yaw_valid=0 distance_valid=0
+391:AP: AI_CORR conf=0.90 dist=2.50
+393:AP: QLAND AI pitch=-0.020 conf=0.90 lost=0 inject=-34.4 ok=1
+394:AP: AI_CAM_OFF raw=(1.00,2.00,3.00) corr=(2.00,4.00,6.00)
+395:AP: AI_CTRL_USE xyz=(2.00,4.00,6.00)
+396:AP: QLOITER ENTER
+398:AP: AI_STAT conf=0.90 lost=0 reproj=0.05 cov=0.02 L1=0 L2=0 L3=0 reason=0
+399:AP: AI_LANDING_CORR_INVALID flags=0 yaw_valid=0 distance_valid=0
+400:AP: AI_CORR conf=0.90 dist=2.50
+401:AP: AI_STAT conf=0.90 lost=0 reproj=0.05 cov=0.02 L1=0 L2=0 L3=0 reason=0
+402:AP: AI_LANDING_CORR_INVALID flags=0 yaw_valid=0 distance_valid=0
+403:AP: AI_CORR conf=0.90 dist=2.50
+404:AP: AI_STAT conf=0.90 lost=0 reproj=0.05 cov=0.02 L1=0 L2=0 L3=0 reason=0
+405:AP: AI_LANDING_CORR_INVALID flags=0 yaw_valid=0 distance_valid=0
+406:AP: AI_CORR conf=0.90 dist=2.50
+407:AP: AI_STAT conf=0.90 lost=0 reproj=0.05 cov=0.02 L1=0 L2=0 L3=0 reason=0
+408:AP: AI_LANDING_CORR_INVALID flags=0 yaw_valid=0 distance_valid=0
+409:AP: AI_CORR conf=0.90 dist=2.50
+410:AP: AI_STAT conf=0.90 lost=0 reproj=0.05 cov=0.02 L1=0 L2=0 L3=0 reason=0
+411:AP: AI_LANDING_CORR_INVALID flags=0 yaw_valid=0 distance_valid=0
+412:AP: AI_CORR conf=0.90 dist=2.50
+413:AP: AI_STAT conf=0.90 lost=0 reproj=0.05 cov=0.02 L1=0 L2=0 L3=0 reason=0
+414:AP: AI_LANDING_CORR_INVALID flags=0 yaw_valid=0 distance_valid=0
+415:AP: AI_CORR conf=0.90 dist=2.50
+417:AP: AI_STAT conf=0.90 lost=0 reproj=0.05 cov=0.02 L1=0 L2=0 L3=0 reason=0
+418:AP: AI_LANDING_CORR_INVALID flags=0 yaw_valid=0 distance_valid=0
+419:AP: AI_CORR conf=0.90 dist=2.50
+420:AP: AI_STAT conf=0.90 lost=0 reproj=0.05 cov=0.02 L1=0 L2=0 L3=0 reason=0
+421:AP: AI_LANDING_CORR_INVALID flags=0 yaw_valid=0 distance_valid=0
+422:AP: AI_CORR conf=0.90 dist=2.50
+423:AP: AI_STAT conf=0.90 lost=0 reproj=0.05 cov=0.02 L1=0 L2=0 L3=0 reason=0
+424:AP: AI_LANDING_CORR_INVALID flags=0 yaw_valid=0 distance_valid=0
+425:AP: AI_CORR conf=0.90 dist=2.50
+426:AP: AI_STAT conf=0.90 lost=0 reproj=0.05 cov=0.02 L1=0 L2=0 L3=0 reason=0
+427:AP: AI_LANDING_CORR_INVALID flags=0 yaw_valid=0 distance_valid=0
+428:AP: AI_CORR conf=0.90 dist=2.50
+430:AP: QLAND AI pitch=-0.020 conf=0.90 lost=0 inject=-34.4 ok=1
+431:AP: AI_CAM_OFF raw=(1.00,2.00,3.00) corr=(2.00,4.00,6.00)
+432:AP: AI_CTRL_USE xyz=(2.00,4.00,6.00)
+433:AP: QLOITER ENTER
+435:AP: AI_STAT conf=0.90 lost=0 reproj=0.05 cov=0.02 L1=0 L2=0 L3=0 reason=0
+436:AP: AI_LANDING_CORR_INVALID flags=0 yaw_valid=0 distance_valid=0
+437:AP: AI_CORR conf=0.90 dist=2.50
+438:AP: AI_STAT conf=0.90 lost=0 reproj=0.05 cov=0.02 L1=0 L2=0 L3=0 reason=0
+439:AP: AI_LANDING_CORR_INVALID flags=0 yaw_valid=0 distance_valid=0
+440:AP: AI_CORR conf=0.90 dist=2.50
+441:AP: AI_STAT conf=0.90 lost=0 reproj=0.05 cov=0.02 L1=0 L2=0 L3=0 reason=0
+442:AP: AI_LANDING_CORR_INVALID flags=0 yaw_valid=0 distance_valid=0
+443:AP: AI_CORR conf=0.90 dist=2.50
+444:AP: AI_STAT conf=0.90 lost=0 reproj=0.05 cov=0.02 L1=0 L2=0 L3=0 reason=0
+445:AP: AI_LANDING_CORR_INVALID flags=0 yaw_valid=0 distance_valid=0
+446:AP: AI_CORR conf=0.90 dist=2.50
+447:AP: AI_STAT conf=0.90 lost=0 reproj=0.05 cov=0.02 L1=0 L2=0 L3=0 reason=0
+448:AP: AI_LANDING_CORR_INVALID flags=0 yaw_valid=0 distance_valid=0
+449:AP: AI_CORR conf=0.90 dist=2.50
+450:AP: AI_STAT conf=0.90 lost=0 reproj=0.05 cov=0.02 L1=0 L2=0 L3=0 reason=0
+451:AP: AI_CORR conf=0.90 dist=2.80
+453:AP: AI_STAT conf=0.90 lost=0 reproj=0.05 cov=0.02 L1=0 L2=0 L3=0 reason=0
+454:AP: AI_CORR conf=0.90 dist=2.80
+455:AP: AI_STAT conf=0.90 lost=0 reproj=0.05 cov=0.02 L1=0 L2=0 L3=0 reason=0
+456:AP: AI_CORR conf=0.90 dist=2.80
+457:AP: AI_STAT conf=0.90 lost=0 reproj=0.05 cov=0.02 L1=0 L2=0 L3=0 reason=0
+458:AP: AI_CORR conf=0.90 dist=2.80
+460:AP: AI_STAT conf=0.90 lost=0 reproj=0.05 cov=0.02 L1=0 L2=0 L3=0 reason=0
+461:AP: AI_CORR conf=0.90 dist=2.80
+463:AP: QLAND AI pitch=-0.020 conf=0.90 lost=0 inject=-34.4 ok=1
+464:AP: AI_CAM_OFF raw=(1.50,2.50,3.50) corr=(2.50,4.50,6.50)
+465:AP: AI_CTRL_USE xyz=(2.50,4.50,6.50)
+466:AP: QLOITER ENTER
+468:AP: AI_STAT conf=0.90 lost=0 reproj=0.05 cov=0.02 L1=0 L2=0 L3=0 reason=0
+469:AP: AI_CORR conf=0.90 dist=2.80
+470:AP: AI_STAT conf=0.90 lost=0 reproj=0.05 cov=0.02 L1=0 L2=0 L3=0 reason=0
+471:AP: AI_CORR conf=0.90 dist=2.80
+472:AP: AI_STAT conf=0.90 lost=0 reproj=0.05 cov=0.02 L1=0 L2=0 L3=0 reason=0
+473:AP: AI_CORR conf=0.90 dist=2.80
+474:AP: AI_STAT conf=0.90 lost=0 reproj=0.05 cov=0.02 L1=0 L2=0 L3=0 reason=0
+475:AP: AI_CORR conf=0.90 dist=2.80
+476:AP: AI_STAT conf=0.90 lost=0 reproj=0.05 cov=0.02 L1=0 L2=0 L3=0 reason=0
+477:AP: AI_CORR conf=0.90 dist=2.80
+478:AP: AI_STAT conf=0.90 lost=0 reproj=0.05 cov=0.02 L1=0 L2=0 L3=0 reason=0
+479:AP: AI_CORR conf=0.90 dist=2.80
+481:AP: AI_STAT conf=0.90 lost=0 reproj=0.05 cov=0.02 L1=0 L2=0 L3=0 reason=0
+482:AP: AI_CORR conf=0.90 dist=2.80
+483:AP: AI_STAT conf=0.90 lost=0 reproj=0.05 cov=0.02 L1=0 L2=0 L3=0 reason=0
+484:AP: AI_CORR conf=0.90 dist=2.80
+485:AP: AI_STAT conf=0.90 lost=0 reproj=0.05 cov=0.02 L1=0 L2=0 L3=0 reason=0
+486:AP: AI_CORR conf=0.90 dist=2.80
+487:AP: AI_STAT conf=0.90 lost=0 reproj=0.05 cov=0.02 L1=0 L2=0 L3=0 reason=0
+488:AP: AI_CORR conf=0.90 dist=2.80
+490:AP: QLAND AI pitch=-0.020 conf=0.90 lost=0 inject=-34.4 ok=1
+491:AP: AI_CAM_OFF raw=(1.50,2.50,3.50) corr=(2.50,4.50,6.50)
+492:AP: AI_CTRL_USE xyz=(2.50,4.50,6.50)
+493:AP: QLOITER ENTER
+495:AP: AI_STAT conf=0.90 lost=0 reproj=0.05 cov=0.02 L1=0 L2=0 L3=0 reason=0
+496:AP: AI_CORR conf=0.90 dist=2.80
+497:AP: AI_STAT conf=0.90 lost=0 reproj=0.05 cov=0.02 L1=0 L2=0 L3=0 reason=0
+498:AP: AI_CORR conf=0.90 dist=2.80
+499:AP: AI_STAT conf=0.90 lost=0 reproj=0.05 cov=0.02 L1=0 L2=0 L3=0 reason=0
+500:AP: AI_CORR conf=0.90 dist=2.80
+501:AP: AI_STAT conf=0.90 lost=0 reproj=0.05 cov=0.02 L1=0 L2=0 L3=0 reason=0
+502:AP: AI_CORR conf=0.90 dist=2.80
+503:AP: AI_STAT conf=0.90 lost=0 reproj=0.05 cov=0.02 L1=0 L2=0 L3=0 reason=0
+504:AP: AI_CORR conf=0.90 dist=2.80
+506:AP: AI_STAT conf=0.90 lost=0 reproj=0.05 cov=0.02 L1=0 L2=0 L3=0 reason=0
+507:AP: AI_CORR conf=0.90 dist=2.80
+508:AP: AI_STAT conf=0.90 lost=0 reproj=0.05 cov=0.02 L1=0 L2=0 L3=0 reason=0
+509:AP: AI_CORR conf=0.90 dist=2.80
+510:AP: AI_STAT conf=0.90 lost=0 reproj=0.05 cov=0.02 L1=0 L2=0 L3=0 reason=0
+511:AP: AI_CORR conf=0.90 dist=2.80
+512:AP: AI_STAT conf=0.90 lost=0 reproj=0.05 cov=0.02 L1=0 L2=0 L3=0 reason=0
+513:AP: AI_CORR conf=0.90 dist=2.80
+514:AP: AI_STAT conf=0.90 lost=0 reproj=0.05 cov=0.02 L1=0 L2=0 L3=0 reason=0
+515:AP: AI_CORR conf=0.90 dist=2.80
+517:AP: QLAND AI pitch=-0.020 conf=0.90 lost=0 inject=-34.4 ok=1
+518:AP: AI_CAM_OFF raw=(1.50,2.50,3.50) corr=(2.50,4.50,6.50)
+519:AP: AI_CTRL_USE xyz=(2.50,4.50,6.50)
+520:AP: QLOITER ENTER
+522:AP: AI_STAT conf=0.90 lost=0 reproj=0.05 cov=0.02 L1=0 L2=0 L3=0 reason=0
+523:AP: AI_CORR conf=0.90 dist=2.80
+524:AP: AI_STAT conf=0.90 lost=0 reproj=0.05 cov=0.02 L1=0 L2=0 L3=0 reason=0
+525:AP: AI_CORR conf=0.90 dist=2.80
+526:AP: AI_STAT conf=0.90 lost=0 reproj=0.05 cov=0.02 L1=0 L2=0 L3=0 reason=0
+527:AP: AI_CORR conf=0.90 dist=2.80
+528:AP: AI_STAT conf=0.90 lost=0 reproj=0.05 cov=0.02 L1=0 L2=0 L3=0 reason=0
+529:AP: AI_CORR conf=0.90 dist=2.80
+530:AP: AI_STAT conf=0.90 lost=0 reproj=0.05 cov=0.02 L1=0 L2=0 L3=0 reason=0
+531:AP: AI_CORR conf=0.90 dist=2.80
+533:AP: AI_STAT conf=0.10 lost=0 reproj=0.05 cov=0.02 L1=0 L2=1 L3=0 reason=1
+534:AP: AI_CORR conf=0.10 dist=2.50
+535:QLOITER> Mode QLOITER
+536:AP: AI_LANDING_ABORT_L2 reason=1
+537:AP: AI_GO_AROUND target_alt=21.2m radius=15.0m speed=4.0mps
+538:AP: AI_STAT conf=0.10 lost=0 reproj=0.05 cov=0.02 L1=0 L2=1 L3=0 reason=1
+539:AP: AI_CORR conf=0.10 dist=2.50
+540:AP: AI_STAT conf=0.10 lost=0 reproj=0.05 cov=0.02 L1=0 L2=1 L3=0 reason=1
+541:AP: AI_CORR conf=0.10 dist=2.50
+542:AP: AI_STAT conf=0.10 lost=0 reproj=0.05 cov=0.02 L1=0 L2=1 L3=0 reason=1
+543:AP: AI_CORR conf=0.10 dist=2.50
+544:AP: AI_STAT conf=0.10 lost=0 reproj=0.05 cov=0.02 L1=0 L2=1 L3=0 reason=1
+545:AP: AI_CORR conf=0.10 dist=2.50
+546:AP: QLOITER ENTER
+548:AP: AI_STAT conf=0.10 lost=0 reproj=0.05 cov=0.02 L1=0 L2=1 L3=0 reason=1
+549:AP: AI_CORR conf=0.10 dist=2.50
+550:AP: AI_STAT conf=0.10 lost=0 reproj=0.05 cov=0.02 L1=0 L2=1 L3=0 reason=1
+551:AP: AI_CORR conf=0.10 dist=2.50
+552:AP: AI_STAT conf=0.10 lost=0 reproj=0.05 cov=0.02 L1=0 L2=1 L3=0 reason=1
+553:AP: AI_CORR conf=0.10 dist=2.50
+554:AP: AI_STAT conf=0.10 lost=0 reproj=0.05 cov=0.02 L1=0 L2=1 L3=0 reason=1
+555:AP: AI_CORR conf=0.10 dist=2.50
+556:AP: AI_STAT conf=0.10 lost=0 reproj=0.05 cov=0.02 L1=0 L2=1 L3=0 reason=1
+557:AP: AI_CORR conf=0.10 dist=2.50
+558:AP: AI_STAT conf=0.10 lost=0 reproj=0.05 cov=0.02 L1=0 L2=1 L3=0 reason=1
+559:AP: AI_CORR conf=0.10 dist=2.50
+560:AP: AI_STAT conf=0.10 lost=0 reproj=0.05 cov=0.02 L1=0 L2=1 L3=0 reason=1
+561:AP: AI_CORR conf=0.10 dist=2.50
+562:AP: AI_STAT conf=0.10 lost=0 reproj=0.05 cov=0.02 L1=0 L2=1 L3=0 reason=1
+563:AP: AI_CORR conf=0.10 dist=2.50
+564:AP: AI_STAT conf=0.10 lost=0 reproj=0.05 cov=0.02 L1=0 L2=1 L3=0 reason=1
+565:AP: AI_CORR conf=0.10 dist=2.50
+566:AP: AI_STAT conf=0.10 lost=0 reproj=0.05 cov=0.02 L1=0 L2=1 L3=0 reason=1
+567:AP: AI_CORR conf=0.10 dist=2.50
+568:AP: QLOITER ENTER
+570:AP: AI_STAT conf=0.10 lost=0 reproj=0.05 cov=0.02 L1=0 L2=1 L3=0 reason=1
+571:AP: AI_CORR conf=0.10 dist=2.50
+572:AP: AI_STAT conf=0.10 lost=0 reproj=0.05 cov=0.02 L1=0 L2=1 L3=0 reason=1
+573:AP: AI_CORR conf=0.10 dist=2.50
+574:AP: AI_STAT conf=0.10 lost=0 reproj=0.05 cov=0.02 L1=0 L2=1 L3=0 reason=1
+575:AP: AI_CORR conf=0.10 dist=2.50
+576:AP: AI_STAT conf=0.10 lost=0 reproj=0.05 cov=0.02 L1=0 L2=1 L3=0 reason=1
+577:AP: AI_CORR conf=0.10 dist=2.50
+578:AP: AI_STAT conf=0.10 lost=0 reproj=0.05 cov=0.02 L1=0 L2=1 L3=0 reason=1
+579:AP: AI_CORR conf=0.10 dist=2.50
+580:AP: AI_STAT conf=0.40 lost=1 reproj=0.35 cov=0.25 L1=0 L2=1 L3=0 reason=2
+581:AP: AI_CORR conf=0.40 dist=3.50
+582:AP: AI_STAT conf=0.40 lost=1 reproj=0.35 cov=0.25 L1=0 L2=1 L3=0 reason=2
+583:AP: AI_CORR conf=0.40 dist=3.50
+584:AP: AI_STAT conf=0.40 lost=1 reproj=0.35 cov=0.25 L1=0 L2=1 L3=0 reason=2
+585:AP: AI_CORR conf=0.40 dist=3.50
+586:AP: AI_STAT conf=0.40 lost=1 reproj=0.35 cov=0.25 L1=0 L2=1 L3=0 reason=2
+587:AP: AI_CORR conf=0.40 dist=3.50
+588:AP: AI_STAT conf=0.40 lost=1 reproj=0.35 cov=0.25 L1=0 L2=1 L3=0 reason=2
+589:AP: AI_CORR conf=0.40 dist=3.50
+590:AP: QLOITER ENTER
+592:AP: AI_STAT conf=0.40 lost=1 reproj=0.35 cov=0.25 L1=0 L2=1 L3=0 reason=2
+593:AP: AI_CORR conf=0.40 dist=3.50
+594:AP: AI_STAT conf=0.40 lost=1 reproj=0.35 cov=0.25 L1=0 L2=1 L3=0 reason=2
+595:AP: AI_CORR conf=0.40 dist=3.50
+596:AP: AI_STAT conf=0.40 lost=1 reproj=0.35 cov=0.25 L1=0 L2=1 L3=0 reason=2
+597:AP: AI_CORR conf=0.40 dist=3.50
+598:AP: AI_STAT conf=0.40 lost=1 reproj=0.35 cov=0.25 L1=0 L2=1 L3=0 reason=2
+599:AP: AI_CORR conf=0.40 dist=3.50
+600:AP: AI_STAT conf=0.40 lost=1 reproj=0.35 cov=0.25 L1=0 L2=1 L3=0 reason=2
+601:AP: AI_CORR conf=0.40 dist=3.50
+602:AP: AI_STAT conf=0.40 lost=1 reproj=0.35 cov=0.25 L1=0 L2=1 L3=0 reason=2
+603:AP: AI_CORR conf=0.40 dist=3.50
+604:AP: AI_STAT conf=0.40 lost=1 reproj=0.35 cov=0.25 L1=0 L2=1 L3=0 reason=2
+605:AP: AI_CORR conf=0.40 dist=3.50
+606:AP: AI_STAT conf=0.40 lost=1 reproj=0.35 cov=0.25 L1=0 L2=1 L3=0 reason=2
+607:AP: AI_CORR conf=0.40 dist=3.50
+608:AP: AI_STAT conf=0.40 lost=1 reproj=0.35 cov=0.25 L1=0 L2=1 L3=0 reason=2
+609:AP: AI_CORR conf=0.40 dist=3.50
+610:AP: AI_STAT conf=0.40 lost=1 reproj=0.35 cov=0.25 L1=0 L2=1 L3=0 reason=2
+611:AP: AI_CORR conf=0.40 dist=3.50
+612:AP: QLOITER ENTER
+614:AP: AI_STAT conf=0.40 lost=1 reproj=0.35 cov=0.25 L1=0 L2=1 L3=0 reason=2
+615:AP: AI_CORR conf=0.40 dist=3.50
+616:AP: AI_STAT conf=0.40 lost=1 reproj=0.35 cov=0.25 L1=0 L2=1 L3=0 reason=2
+617:AP: AI_CORR conf=0.40 dist=3.50
+618:AP: AI_STAT conf=0.40 lost=1 reproj=0.35 cov=0.25 L1=0 L2=1 L3=0 reason=2
+619:AP: AI_CORR conf=0.40 dist=3.50
+620:AP: AI_STAT conf=0.40 lost=1 reproj=0.35 cov=0.25 L1=0 L2=1 L3=0 reason=2
+621:AP: AI_CORR conf=0.40 dist=3.50
+622:AP: AI_STAT conf=0.40 lost=1 reproj=0.35 cov=0.25 L1=0 L2=1 L3=0 reason=2
+623:AP: AI_CORR conf=0.40 dist=3.50
+624:AP: AI_STAT conf=0.40 lost=1 reproj=0.35 cov=0.25 L1=0 L2=1 L3=0 reason=2
+625:AP: AI_CORR conf=0.40 dist=3.50
+626:AP: AI_STAT conf=0.40 lost=1 reproj=0.35 cov=0.25 L1=0 L2=1 L3=0 reason=2
+627:AP: AI_CORR conf=0.40 dist=3.50
+628:AP: AI_STAT conf=0.40 lost=1 reproj=0.35 cov=0.25 L1=0 L2=1 L3=0 reason=2
+629:AP: AI_CORR conf=0.40 dist=3.50
+630:AP: AI_STAT conf=0.40 lost=1 reproj=0.35 cov=0.25 L1=0 L2=1 L3=0 reason=2
+631:AP: AI_CORR conf=0.40 dist=3.50
+632:AP: AI_STAT conf=0.40 lost=1 reproj=0.35 cov=0.25 L1=0 L2=1 L3=0 reason=2
+633:AP: AI_CORR conf=0.40 dist=3.50
+634:AP: QLOITER ENTER
+636:AP: AI_STAT conf=0.40 lost=1 reproj=0.35 cov=0.25 L1=0 L2=1 L3=0 reason=2
+637:AP: AI_CORR conf=0.40 dist=3.50
+638:AP: AI_STAT conf=0.40 lost=1 reproj=0.35 cov=0.25 L1=0 L2=1 L3=0 reason=2
+639:AP: AI_CORR conf=0.40 dist=3.50
+640:AP: AI_STAT conf=0.40 lost=1 reproj=0.35 cov=0.25 L1=0 L2=1 L3=0 reason=2
+641:AP: AI_CORR conf=0.40 dist=3.50
+642:AP: AI_STAT conf=0.40 lost=1 reproj=0.35 cov=0.25 L1=0 L2=1 L3=0 reason=2
+643:AP: AI_CORR conf=0.40 dist=3.50
+644:AP: AI_STAT conf=0.40 lost=1 reproj=0.35 cov=0.25 L1=0 L2=1 L3=0 reason=2
+645:AP: AI_CORR conf=0.40 dist=3.50
+646:AP: AI_STAT conf=0.40 lost=1 reproj=0.35 cov=0.25 L1=0 L2=1 L3=0 reason=2
+647:AP: AI_CORR conf=0.40 dist=3.50
+648:AP: AI_STAT conf=0.40 lost=1 reproj=0.35 cov=0.25 L1=0 L2=1 L3=0 reason=2
+649:AP: AI_CORR conf=0.40 dist=3.50
+650:AP: AI_STAT conf=0.40 lost=1 reproj=0.35 cov=0.25 L1=0 L2=1 L3=0 reason=2
+651:AP: AI_CORR conf=0.40 dist=3.50
+652:AP: AI_STAT conf=0.40 lost=1 reproj=0.35 cov=0.25 L1=0 L2=1 L3=0 reason=2
+653:AP: AI_CORR conf=0.40 dist=3.50
+654:AP: AI_STAT conf=0.40 lost=1 reproj=0.35 cov=0.25 L1=0 L2=1 L3=0 reason=2
+655:AP: AI_CORR conf=0.40 dist=3.50
+656:AP: QLOITER ENTER
+658:AP: AI_STAT conf=0.40 lost=1 reproj=0.35 cov=0.25 L1=0 L2=1 L3=0 reason=2
+659:AP: AI_CORR conf=0.40 dist=3.50
+660:AP: AI_STAT conf=0.40 lost=1 reproj=0.35 cov=0.25 L1=0 L2=1 L3=0 reason=2
+661:AP: AI_CORR conf=0.40 dist=3.50
+662:AP: AI_STAT conf=0.40 lost=1 reproj=0.35 cov=0.25 L1=0 L2=1 L3=0 reason=2
+663:AP: AI_CORR conf=0.40 dist=3.50
+664:AP: AI_STAT conf=0.40 lost=1 reproj=0.35 cov=0.25 L1=0 L2=1 L3=0 reason=2
+665:AP: AI_CORR conf=0.40 dist=3.50
+666:AP: AI_STAT conf=0.40 lost=1 reproj=0.35 cov=0.25 L1=0 L2=1 L3=0 reason=2
+667:AP: AI_CORR conf=0.40 dist=3.50
+668:AP: QLOITER ENTER
+670:AP: QLOITER ENTER
+672:AP: AI_STAT conf=0.90 lost=0 reproj=0.05 cov=0.02 L1=0 L2=0 L3=0 reason=0
+673:AP: AI_CORR conf=0.90 dist=2.50
+674:AP: AI_STAT conf=0.90 lost=0 reproj=0.05 cov=0.02 L1=0 L2=0 L3=0 reason=0
+675:AP: AI_CORR conf=0.90 dist=2.50
+676:AP: AI_STAT conf=0.90 lost=0 reproj=0.05 cov=0.02 L1=0 L2=0 L3=0 reason=0
+677:AP: AI_CORR conf=0.90 dist=2.50
+678:AP: AI_STAT conf=0.90 lost=0 reproj=0.05 cov=0.02 L1=0 L2=0 L3=0 reason=0
+679:AP: AI_CORR conf=0.90 dist=2.50
+680:AP: AI_STAT conf=0.90 lost=0 reproj=0.05 cov=0.02 L1=0 L2=0 L3=0 reason=0
+681:AP: AI_CORR conf=0.90 dist=2.50
+682:AP: AI_STAT conf=0.90 lost=0 reproj=0.05 cov=0.02 L1=0 L2=0 L3=0 reason=0
+683:AP: AI_CORR conf=0.90 dist=2.50
+684:AP: AI_STAT conf=0.90 lost=0 reproj=0.05 cov=0.02 L1=0 L2=0 L3=0 reason=0
+685:AP: AI_CORR conf=0.90 dist=2.50
+686:AP: QLOITER ENTER
+688:AP: AI_STAT conf=0.90 lost=0 reproj=0.05 cov=0.02 L1=0 L2=0 L3=0 reason=0
+689:AP: AI_CORR conf=0.90 dist=2.50
+690:AP: AI_STAT conf=0.90 lost=0 reproj=0.05 cov=0.02 L1=0 L2=0 L3=0 reason=0
+691:AP: AI_CORR conf=0.90 dist=2.50
+692:AP: AI_STAT conf=0.90 lost=0 reproj=0.05 cov=0.02 L1=0 L2=0 L3=0 reason=0
+693:AP: AI_CORR conf=0.90 dist=2.50
+694:AP: AI_STAT conf=0.90 lost=0 reproj=0.05 cov=0.02 L1=0 L2=0 L3=0 reason=0
+695:AP: AI_CORR conf=0.90 dist=2.50
+696:AP: AI_STAT conf=0.90 lost=0 reproj=0.05 cov=0.02 L1=0 L2=0 L3=0 reason=0
+697:AP: AI_CORR conf=0.90 dist=2.50
+698:AP: AI_STAT conf=0.90 lost=0 reproj=0.05 cov=0.02 L1=0 L2=0 L3=0 reason=0
+699:AP: AI_CORR conf=0.90 dist=2.50
+700:AP: AI_STAT conf=0.90 lost=0 reproj=0.05 cov=0.02 L1=0 L2=0 L3=0 reason=0
+701:AP: AI_CORR conf=0.90 dist=2.50
+702:AP: AI_STAT conf=0.90 lost=0 reproj=0.05 cov=0.02 L1=0 L2=0 L3=0 reason=0
+703:AP: AI_CORR conf=0.90 dist=2.50
+704:AP: AI_STAT conf=0.90 lost=0 reproj=0.05 cov=0.02 L1=0 L2=0 L3=0 reason=0
+705:AP: AI_CORR conf=0.90 dist=2.50
+706:AP: AI_STAT conf=0.90 lost=0 reproj=0.05 cov=0.02 L1=0 L2=0 L3=0 reason=0
+707:AP: AI_CORR conf=0.90 dist=2.50
+708:AP: QLOITER ENTER
+710:AP: AI_STAT conf=0.90 lost=0 reproj=0.05 cov=0.02 L1=0 L2=0 L3=0 reason=0
+711:AP: AI_CORR conf=0.90 dist=2.50
+712:AP: AI_STAT conf=0.90 lost=0 reproj=0.05 cov=0.02 L1=0 L2=0 L3=0 reason=0
+713:AP: AI_CORR conf=0.90 dist=2.50
+714:AP: AI_STAT conf=0.90 lost=0 reproj=0.05 cov=0.02 L1=0 L2=0 L3=0 reason=0
+715:AP: AI_CORR conf=0.90 dist=2.50
+716:AP: AI_STAT conf=0.90 lost=0 reproj=0.05 cov=0.02 L1=0 L2=0 L3=0 reason=0
+717:AP: AI_CORR conf=0.90 dist=2.50
+718:AP: AI_STAT conf=0.90 lost=0 reproj=0.05 cov=0.02 L1=0 L2=0 L3=0 reason=0
+719:AP: AI_CORR conf=0.90 dist=2.50
+720:AP: AI_STAT conf=0.90 lost=0 reproj=0.05 cov=0.02 L1=0 L2=0 L3=0 reason=0
+721:AP: AI_CORR conf=0.90 dist=2.50
+722:AP: AI_STAT conf=0.90 lost=0 reproj=0.05 cov=0.02 L1=0 L2=0 L3=0 reason=0
+723:AP: AI_CORR conf=0.90 dist=2.50
+724:AP: AI_STAT conf=0.90 lost=0 reproj=0.05 cov=0.02 L1=0 L2=0 L3=0 reason=0
+725:AP: AI_CORR conf=0.90 dist=2.50
+726:AP: AI_STAT conf=0.90 lost=0 reproj=0.05 cov=0.02 L1=0 L2=0 L3=0 reason=0
+727:AP: AI_CORR conf=0.90 dist=2.50
+728:AP: AI_STAT conf=0.90 lost=0 reproj=0.05 cov=0.02 L1=0 L2=0 L3=0 reason=0
+729:AP: AI_CORR conf=0.90 dist=2.50
+730:AP: QLOITER ENTER
+732:AP: AI_STAT conf=0.90 lost=0 reproj=0.05 cov=0.02 L1=0 L2=0 L3=0 reason=0
+733:AP: AI_CORR conf=0.90 dist=2.50
+734:AP: AI_STAT conf=0.90 lost=0 reproj=0.05 cov=0.02 L1=0 L2=0 L3=0 reason=0
+735:AP: AI_CORR conf=0.90 dist=2.50
+736:AP: AI_STAT conf=0.90 lost=0 reproj=0.05 cov=0.02 L1=0 L2=0 L3=0 reason=0
+737:AP: AI_CORR conf=0.90 dist=2.50
+738:AP: AI_STAT conf=0.90 lost=0 reproj=0.05 cov=0.02 L1=0 L2=0 L3=0 reason=0
+739:AP: AI_CORR conf=0.90 dist=2.50
+740:AP: AI_STAT conf=0.90 lost=0 reproj=0.05 cov=0.02 L1=0 L2=0 L3=0 reason=0
+741:AP: AI_CORR conf=0.90 dist=2.50
+742:AP: AI_STAT conf=0.90 lost=0 reproj=0.05 cov=0.02 L1=0 L2=0 L3=0 reason=0
+743:AP: AI_CORR conf=0.90 dist=2.50
+744:AP: AI_STAT conf=0.90 lost=0 reproj=0.05 cov=0.02 L1=0 L2=0 L3=0 reason=0
+745:AP: AI_CORR conf=0.90 dist=2.50
+746:AP: AI_STAT conf=0.90 lost=0 reproj=0.05 cov=0.02 L1=0 L2=0 L3=0 reason=0
+747:AP: AI_CORR conf=0.90 dist=2.50
+748:AP: AI_STAT conf=0.90 lost=0 reproj=0.05 cov=0.02 L1=0 L2=0 L3=0 reason=0
+749:AP: AI_CORR conf=0.90 dist=2.50
+750:AP: AI_STAT conf=0.90 lost=0 reproj=0.05 cov=0.02 L1=0 L2=0 L3=0 reason=0
+751:AP: AI_CORR conf=0.90 dist=2.50
+752:AP: QLOITER ENTER
+754:AP: AI_STAT conf=0.90 lost=0 reproj=0.05 cov=0.02 L1=0 L2=0 L3=0 reason=0
+755:AP: AI_CORR conf=0.90 dist=2.50
+756:AP: AI_STAT conf=0.90 lost=0 reproj=0.05 cov=0.02 L1=0 L2=0 L3=0 reason=0
+757:AP: AI_CORR conf=0.90 dist=2.50
+758:AP: AI_STAT conf=0.90 lost=0 reproj=0.05 cov=0.02 L1=0 L2=0 L3=0 reason=0
+759:AP: AI_CORR conf=0.90 dist=2.50
+760:AP: QLOITER ENTER
+762:AP: QLOITER ENTER
+764:AP: QLOITER ENTER
+766:AP: QLOITER ENTER
+768:AP: QLOITER ENTER
+770:AP: QLOITER ENTER
+773:AP: QLOITER ENTER
+775:AP: QLOITER ENTER
+777:AP: QLOITER ENTER
+779:AP: QLOITER ENTER
+781:AP: QLOITER ENTER
+783:AP: QLOITER ENTER
+785:AP: QLOITER ENTER
+787:AP: QLOITER ENTER
+789:AP: QLOITER ENTER
+791:AP: QLOITER ENTER
+793:AP: QLOITER ENTER
+796:AP: QLOITER ENTER
+798:AP: QLOITER ENTER
+800:AP: QLOITER ENTER
+802:AP: QLOITER ENTER
+804:AP: QLOITER ENTER
+806:AP: QLOITER ENTER
+808:AP: QLOITER ENTER
+810:AP: QLOITER ENTER
+812:AP: QLOITER ENTER
+814:AP: QLOITER ENTER
+816:AP: QLOITER ENTER
+819:AP: QLOITER ENTER
+821:AP: QLOITER ENTER
+823:AP: QLOITER ENTER
+825:AP: QLOITER ENTER
+827:AP: QLOITER ENTER
+829:AP: QLOITER ENTER
+831:AP: QLOITER ENTER
+833:AP: QLOITER ENTER
+835:AP: QLOITER ENTER
+837:AP: QLOITER ENTER
+839:AP: QLOITER ENTER
+842:AP: QLOITER ENTER
+844:AP: QLOITER ENTER
+846:AP: QLOITER ENTER
+848:AP: QLOITER ENTER
+850:AP: QLOITER ENTER
+852:AP: QLOITER ENTER
+854:AP: QLOITER ENTER
+856:AP: QLOITER ENTER
+858:AP: QLOITER ENTER
+860:AP: QLOITER ENTER
+862:AP: QLOITER ENTER
+864:AP: QLOITER ENTER
+867:AP: QLOITER ENTER
+869:AP: QLOITER ENTER
+871:AP: QLOITER ENTER
+873:AP: QLOITER ENTER
+875:AP: QLOITER ENTER
+877:AP: QLOITER ENTER
+879:AP: QLOITER ENTER
+881:AP: QLOITER ENTER
+883:AP: QLOITER ENTER
+885:AP: QLOITER ENTER
+887:AP: QLOITER ENTER
+890:AP: QLOITER ENTER
+892:AP: QLOITER ENTER
+894:AP: QLOITER ENTER
+896:AP: QLOITER ENTER
+898:AP: QLOITER ENTER
+900:AP: QLOITER ENTER
+902:AP: QLOITER ENTER
+904:AP: QLOITER ENTER
+906:AP: QLOITER ENTER
+908:AP: QLOITER ENTER
+910:AP: QLOITER ENTER
+913:AP: QLOITER ENTER
+915:AP: QLOITER ENTER
+917:AP: QLOITER ENTER
+919:AP: QLOITER ENTER

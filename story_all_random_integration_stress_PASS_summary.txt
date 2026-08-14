@@ -1,0 +1,363 @@
+12:Got COMMAND_ACK: REQUEST_MESSAGE: ACCEPTED
+13:Got COMMAND_ACK: REQUEST_AUTOPILOT_CAPABILITIES: FAILED
+14:Got COMMAND_ACK: DO_SEND_BANNER: ACCEPTED
+17:Got COMMAND_ACK: DO_SEND_BANNER: ACCEPTED
+23:Got COMMAND_ACK: REQUEST_MESSAGE: ACCEPTED
+24:Got COMMAND_ACK: REQUEST_MESSAGE: ACCEPTED
+25:Got COMMAND_ACK: REQUEST_MESSAGE: ACCEPTED
+49:Got COMMAND_ACK: REQUEST_MESSAGE: ACCEPTED
+50:Got COMMAND_ACK: SET_MESSAGE_INTERVAL: ACCEPTED
+51:Got COMMAND_ACK: REQUEST_MESSAGE: ACCEPTED
+52:Got COMMAND_ACK: REQUEST_MESSAGE: ACCEPTED
+53:FBWA> Watching ['COMMAND_ACK']
+66:FBWA> Got COMMAND_ACK: DO_SET_MODE: ACCEPTED
+67:< COMMAND_ACK {command : 176, result : 0, progress : 0, result_param2 : 0, target_system : 255, target_component : 190}
+69:Got COMMAND_ACK: REQUEST_MESSAGE: ACCEPTED
+70:< COMMAND_ACK {command : 512, result : 0, progress : 0, result_param2 : 0, target_system : 255, target_component : 190}
+71:Got COMMAND_ACK: SET_MESSAGE_INTERVAL: ACCEPTED
+72:< COMMAND_ACK {command : 511, result : 0, progress : 0, result_param2 : 0, target_system : 255, target_component : 190}
+73:Got COMMAND_ACK: REQUEST_MESSAGE: ACCEPTED
+74:< COMMAND_ACK {command : 512, result : 0, progress : 0, result_param2 : 0, target_system : 255, target_component : 190}
+75:Got COMMAND_ACK: REQUEST_MESSAGE: ACCEPTED
+76:< COMMAND_ACK {command : 512, result : 0, progress : 0, result_param2 : 0, target_system : 255, target_component : 190}
+77:Got COMMAND_ACK: REQUEST_MESSAGE: ACCEPTED
+78:< COMMAND_ACK {command : 512, result : 0, progress : 0, result_param2 : 0, target_system : 255, target_component : 190}
+79:QHOVER> Got COMMAND_ACK: COMPONENT_ARM_DISARM: ACCEPTED
+80:< COMMAND_ACK {command : 400, result : 0, progress : 0, result_param2 : 0, target_system : 255, target_component : 190}
+97:Got COMMAND_ACK: REQUEST_MESSAGE: ACCEPTED
+98:< COMMAND_ACK {command : 512, result : 0, progress : 0, result_param2 : 0, target_system : 255, target_component : 190}
+99:Got COMMAND_ACK: SET_MESSAGE_INTERVAL: ACCEPTED
+100:< COMMAND_ACK {command : 511, result : 0, progress : 0, result_param2 : 0, target_system : 255, target_component : 190}
+101:Got COMMAND_ACK: REQUEST_MESSAGE: ACCEPTED
+102:< COMMAND_ACK {command : 512, result : 0, progress : 0, result_param2 : 0, target_system : 255, target_component : 190}
+103:Got COMMAND_ACK: REQUEST_MESSAGE: ACCEPTED
+104:< COMMAND_ACK {command : 512, result : 0, progress : 0, result_param2 : 0, target_system : 255, target_component : 190}
+105:Got COMMAND_ACK: REQUEST_MESSAGE: ACCEPTED
+106:< COMMAND_ACK {command : 512, result : 0, progress : 0, result_param2 : 0, target_system : 255, target_component : 190}
+121:Got COMMAND_ACK: REQUEST_MESSAGE: ACCEPTED
+122:< COMMAND_ACK {command : 512, result : 0, progress : 0, result_param2 : 0, target_system : 255, target_component : 190}
+123:Got COMMAND_ACK: REQUEST_MESSAGE: ACCEPTED
+124:< COMMAND_ACK {command : 512, result : 0, progress : 0, result_param2 : 0, target_system : 255, target_component : 190}
+125:Got COMMAND_ACK: SET_MESSAGE_INTERVAL: ACCEPTED
+126:< COMMAND_ACK {command : 511, result : 0, progress : 0, result_param2 : 0, target_system : 255, target_component : 190}
+127:Got COMMAND_ACK: REQUEST_MESSAGE: ACCEPTED
+128:< COMMAND_ACK {command : 512, result : 0, progress : 0, result_param2 : 0, target_system : 255, target_component : 190}
+155:Got COMMAND_ACK: REQUEST_MESSAGE: ACCEPTED
+156:< COMMAND_ACK {command : 512, result : 0, progress : 0, result_param2 : 0, target_system : 255, target_component : 190}
+157:Got COMMAND_ACK: SET_MESSAGE_INTERVAL: ACCEPTED
+158:< COMMAND_ACK {command : 511, result : 0, progress : 0, result_param2 : 0, target_system : 255, target_component : 190}
+159:Got COMMAND_ACK: REQUEST_MESSAGE: ACCEPTED
+160:< COMMAND_ACK {command : 512, result : 0, progress : 0, result_param2 : 0, target_system : 255, target_component : 190}
+161:Got COMMAND_ACK: REQUEST_MESSAGE: ACCEPTED
+162:< COMMAND_ACK {command : 512, result : 0, progress : 0, result_param2 : 0, target_system : 255, target_component : 190}
+178:Got COMMAND_ACK: REQUEST_MESSAGE: ACCEPTED
+179:< COMMAND_ACK {command : 512, result : 0, progress : 0, result_param2 : 0, target_system : 255, target_component : 190}
+180:Got COMMAND_ACK: SET_MESSAGE_INTERVAL: ACCEPTED
+181:< COMMAND_ACK {command : 511, result : 0, progress : 0, result_param2 : 0, target_system : 255, target_component : 190}
+182:Got COMMAND_ACK: REQUEST_MESSAGE: ACCEPTED
+183:< COMMAND_ACK {command : 512, result : 0, progress : 0, result_param2 : 0, target_system : 255, target_component : 190}
+184:Got COMMAND_ACK: REQUEST_MESSAGE: ACCEPTED
+185:< COMMAND_ACK {command : 512, result : 0, progress : 0, result_param2 : 0, target_system : 255, target_component : 190}
+200:Got COMMAND_ACK: REQUEST_MESSAGE: ACCEPTED
+201:< COMMAND_ACK {command : 512, result : 0, progress : 0, result_param2 : 0, target_system : 255, target_component : 190}
+202:Got COMMAND_ACK: SET_MESSAGE_INTERVAL: ACCEPTED
+203:< COMMAND_ACK {command : 511, result : 0, progress : 0, result_param2 : 0, target_system : 255, target_component : 190}
+204:Got COMMAND_ACK: REQUEST_MESSAGE: ACCEPTED
+205:< COMMAND_ACK {command : 512, result : 0, progress : 0, result_param2 : 0, target_system : 255, target_component : 190}
+206:Got COMMAND_ACK: REQUEST_MESSAGE: ACCEPTED
+207:< COMMAND_ACK {command : 512, result : 0, progress : 0, result_param2 : 0, target_system : 255, target_component : 190}
+220:QHOVER> Got COMMAND_ACK: DO_SET_MODE: ACCEPTED
+221:< COMMAND_ACK {command : 176, result : 0, progress : 0, result_param2 : 0, target_system : 255, target_component : 190}
+227:AP: QLAND AI pitch=0.000 conf=0.00 lost=0 inject=0.0 ok=0
+229:AP: AI_CTRL_USE xyz=(0.00,0.00,0.00)
+232:AP: AI_CORR_FALLBACK recent=0 corr_conf=0.00 status_conf=0.00
+235:AP: QLAND AI pitch=0.000 conf=0.00 lost=0 inject=0.0 ok=0
+237:AP: AI_CTRL_USE xyz=(0.00,0.00,0.00)
+240:AP: AI_CORR_FALLBACK recent=0 corr_conf=0.00 status_conf=0.00
+242:AP: QLAND AI pitch=0.000 conf=0.00 lost=0 inject=0.0 ok=0
+244:AP: AI_CTRL_USE xyz=(0.00,0.00,0.00)
+247:AP: AI_CORR_FALLBACK recent=0 corr_conf=0.00 status_conf=0.00
+250:AP: QLAND AI pitch=0.000 conf=0.00 lost=0 inject=0.0 ok=0
+252:AP: AI_CTRL_USE xyz=(0.00,0.00,0.00)
+255:AP: AI_CORR_FALLBACK recent=0 corr_conf=0.00 status_conf=0.00
+276:AP: QLAND AI pitch=-0.020 conf=0.90 lost=0 inject=-34.4 ok=1
+278:AP: AI_CTRL_USE xyz=(2.00,4.00,6.00)
+303:AP: QLAND AI pitch=-0.020 conf=0.90 lost=0 inject=-34.4 ok=1
+305:AP: AI_CTRL_USE xyz=(2.00,4.00,6.00)
+328:AP: QLAND AI pitch=-0.010 conf=0.95 lost=0 inject=-17.2 ok=1
+330:AP: AI_CTRL_USE xyz=(1.20,2.30,3.50)
+355:AP: QLAND AI pitch=-0.020 conf=0.90 lost=0 inject=-34.4 ok=1
+357:AP: AI_CTRL_USE xyz=(2.50,4.50,6.50)
+369:AP: AI_FISH cov=45.0 fish=32 tuna=88.5 bird=3 fps=12.5 size=640x480
+372:AP: QLAND AI pitch=-0.020 conf=0.90 lost=0 inject=-34.4 ok=1
+374:AP: AI_CTRL_USE xyz=(2.50,4.50,6.50)
+397:AP: QLAND AI pitch=-0.020 conf=0.90 lost=0 inject=-34.4 ok=1
+399:AP: AI_CTRL_USE xyz=(2.00,4.00,6.00)
+406:AP: AI_LANDING_CORR_INVALID flags=0 yaw_valid=0 distance_valid=0
+409:AP: AI_LANDING_CORR_INVALID flags=0 yaw_valid=0 distance_valid=0
+412:AP: AI_LANDING_CORR_INVALID flags=0 yaw_valid=0 distance_valid=0
+415:AP: AI_LANDING_CORR_INVALID flags=0 yaw_valid=0 distance_valid=0
+418:AP: AI_LANDING_CORR_INVALID flags=0 yaw_valid=0 distance_valid=0
+421:AP: AI_LANDING_CORR_INVALID flags=0 yaw_valid=0 distance_valid=0
+424:AP: AI_LANDING_CORR_INVALID flags=0 yaw_valid=0 distance_valid=0
+427:AP: AI_LANDING_CORR_INVALID flags=0 yaw_valid=0 distance_valid=0
+430:AP: AI_LANDING_CORR_INVALID flags=0 yaw_valid=0 distance_valid=0
+433:AP: QLAND AI pitch=-0.020 conf=0.90 lost=0 inject=-34.4 ok=1
+435:AP: AI_CTRL_USE xyz=(2.00,4.00,6.00)
+439:AP: AI_LANDING_CORR_INVALID flags=0 yaw_valid=0 distance_valid=0
+443:AP: AI_LANDING_CORR_INVALID flags=0 yaw_valid=0 distance_valid=0
+446:AP: AI_LANDING_CORR_INVALID flags=0 yaw_valid=0 distance_valid=0
+449:AP: AI_LANDING_CORR_INVALID flags=0 yaw_valid=0 distance_valid=0
+452:AP: AI_LANDING_CORR_INVALID flags=0 yaw_valid=0 distance_valid=0
+455:AP: AI_LANDING_CORR_INVALID flags=0 yaw_valid=0 distance_valid=0
+458:AP: AI_LANDING_CORR_INVALID flags=0 yaw_valid=0 distance_valid=0
+461:AP: AI_LANDING_CORR_INVALID flags=0 yaw_valid=0 distance_valid=0
+464:AP: AI_LANDING_CORR_INVALID flags=0 yaw_valid=0 distance_valid=0
+467:AP: QLAND AI pitch=-0.020 conf=0.90 lost=0 inject=-34.4 ok=1
+469:AP: AI_CTRL_USE xyz=(2.00,4.00,6.00)
+473:AP: AI_LANDING_CORR_INVALID flags=0 yaw_valid=0 distance_valid=0
+477:AP: AI_LANDING_CORR_INVALID flags=0 yaw_valid=0 distance_valid=0
+496:AP: QLAND AI pitch=-0.020 conf=0.90 lost=0 inject=-34.4 ok=1
+498:AP: AI_CTRL_USE xyz=(2.00,4.00,6.00)
+506:AP: AI_FISH cov=45.0 fish=32 tuna=88.5 bird=3 fps=12.5 size=640x480
+512:AP: QLAND AI pitch=-0.200 conf=0.95 lost=0 inject=-171.9 ok=1
+514:AP: AI_CTRL_USE xyz=(9.00,-6.00,9.00)
+537:AP: QLAND AI pitch=-0.020 conf=0.90 lost=0 inject=-34.4 ok=1
+539:AP: AI_CTRL_USE xyz=(2.50,4.50,6.50)
+565:AP: QLAND AI pitch=-0.020 conf=0.90 lost=0 inject=-34.4 ok=1
+567:AP: AI_CTRL_USE xyz=(2.50,4.50,6.50)
+573:AP: AI_STAT conf=0.40 lost=1 reproj=0.35 cov=0.25 L1=0 L2=1 L3=0 reason=2
+576:AP: AI_LANDING_ABORT_L2 reason=2
+577:AP: AI_GO_AROUND target_alt=167.6m radius=15.0m speed=4.0mps
+578:AP: AI_STAT conf=0.40 lost=1 reproj=0.35 cov=0.25 L1=0 L2=1 L3=0 reason=2
+580:AP: AI_STAT conf=0.40 lost=1 reproj=0.35 cov=0.25 L1=0 L2=1 L3=0 reason=2
+582:AP: AI_STAT conf=0.40 lost=1 reproj=0.35 cov=0.25 L1=0 L2=1 L3=0 reason=2
+584:AP: AI_STAT conf=0.40 lost=1 reproj=0.35 cov=0.25 L1=0 L2=1 L3=0 reason=2
+586:AP: AI_STAT conf=0.40 lost=1 reproj=0.35 cov=0.25 L1=0 L2=1 L3=0 reason=2
+588:AP: AI_STAT conf=0.40 lost=1 reproj=0.35 cov=0.25 L1=0 L2=1 L3=0 reason=2
+590:AP: AI_STAT conf=0.40 lost=1 reproj=0.35 cov=0.25 L1=0 L2=1 L3=0 reason=2
+594:AP: AI_STAT conf=0.40 lost=1 reproj=0.35 cov=0.25 L1=0 L2=1 L3=0 reason=2
+596:AP: AI_STAT conf=0.40 lost=1 reproj=0.35 cov=0.25 L1=0 L2=1 L3=0 reason=2
+598:AP: AI_STAT conf=0.40 lost=1 reproj=0.35 cov=0.25 L1=0 L2=1 L3=0 reason=2
+600:AP: AI_STAT conf=0.40 lost=1 reproj=0.35 cov=0.25 L1=0 L2=1 L3=0 reason=2
+602:AP: AI_STAT conf=0.40 lost=1 reproj=0.35 cov=0.25 L1=0 L2=1 L3=0 reason=2
+604:AP: AI_STAT conf=0.40 lost=1 reproj=0.35 cov=0.25 L1=0 L2=1 L3=0 reason=2
+606:AP: AI_STAT conf=0.40 lost=1 reproj=0.35 cov=0.25 L1=0 L2=1 L3=0 reason=2
+608:AP: AI_STAT conf=0.40 lost=1 reproj=0.35 cov=0.25 L1=0 L2=1 L3=0 reason=2
+610:AP: AI_STAT conf=0.40 lost=1 reproj=0.35 cov=0.25 L1=0 L2=1 L3=0 reason=2
+612:AP: AI_STAT conf=0.40 lost=1 reproj=0.35 cov=0.25 L1=0 L2=1 L3=0 reason=2
+616:AP: AI_STAT conf=0.40 lost=1 reproj=0.35 cov=0.25 L1=0 L2=1 L3=0 reason=2
+618:AP: AI_STAT conf=0.40 lost=1 reproj=0.35 cov=0.25 L1=0 L2=1 L3=0 reason=2
+642:AP: AI_STAT conf=0.69 lost=0 reproj=0.05 cov=0.02 L1=1 L2=0 L3=0 reason=1
+644:AP: AI_STAT conf=0.69 lost=0 reproj=0.05 cov=0.02 L1=1 L2=0 L3=0 reason=1
+646:AP: AI_STAT conf=0.69 lost=0 reproj=0.05 cov=0.02 L1=1 L2=0 L3=0 reason=1
+648:AP: AI_STAT conf=0.69 lost=0 reproj=0.05 cov=0.02 L1=1 L2=0 L3=0 reason=1
+650:AP: AI_STAT conf=0.69 lost=0 reproj=0.05 cov=0.02 L1=1 L2=0 L3=0 reason=1
+652:AP: AI_STAT conf=0.69 lost=0 reproj=0.05 cov=0.02 L1=1 L2=0 L3=0 reason=1
+654:AP: AI_STAT conf=0.69 lost=0 reproj=0.05 cov=0.02 L1=1 L2=0 L3=0 reason=1
+658:AP: AI_STAT conf=0.69 lost=0 reproj=0.05 cov=0.02 L1=1 L2=0 L3=0 reason=1
+660:AP: AI_STAT conf=0.69 lost=0 reproj=0.05 cov=0.02 L1=1 L2=0 L3=0 reason=1
+662:AP: AI_STAT conf=0.69 lost=0 reproj=0.05 cov=0.02 L1=1 L2=0 L3=0 reason=1
+734:Got COMMAND_ACK: REQUEST_MESSAGE: ACCEPTED
+735:< COMMAND_ACK {command : 512, result : 0, progress : 0, result_param2 : 0, target_system : 255, target_component : 190}
+736:Got COMMAND_ACK: REQUEST_AUTOPILOT_CAPABILITIES: FAILED
+737:< COMMAND_ACK {command : 520, result : 4, progress : 0, result_param2 : 0, target_system : 255, target_component : 190}
+738:AP: AI_STAT conf=0.10 lost=0 reproj=0.05 cov=0.02 L1=0 L2=0 L3=1 reason=5
+739:AP: AI_LANDING_TAKEOVER reason=5
+741:AP: AI_STAT conf=0.10 lost=0 reproj=0.05 cov=0.02 L1=0 L2=0 L3=1 reason=5
+743:AP: AI_STAT conf=0.10 lost=0 reproj=0.05 cov=0.02 L1=0 L2=0 L3=1 reason=5
+747:AP: AI_STAT conf=0.10 lost=0 reproj=0.05 cov=0.02 L1=0 L2=0 L3=1 reason=5
+749:AP: AI_STAT conf=0.10 lost=0 reproj=0.05 cov=0.02 L1=0 L2=0 L3=1 reason=5
+751:AP: AI_STAT conf=0.10 lost=0 reproj=0.05 cov=0.02 L1=0 L2=0 L3=1 reason=5
+753:AP: AI_STAT conf=0.10 lost=0 reproj=0.05 cov=0.02 L1=0 L2=0 L3=1 reason=5
+755:AP: AI_STAT conf=0.10 lost=0 reproj=0.05 cov=0.02 L1=0 L2=0 L3=1 reason=5
+757:AP: AI_STAT conf=0.10 lost=0 reproj=0.05 cov=0.02 L1=0 L2=0 L3=1 reason=5
+759:AP: AI_STAT conf=0.10 lost=0 reproj=0.05 cov=0.02 L1=0 L2=0 L3=1 reason=5
+765:AP: AI_STAT conf=0.10 lost=0 reproj=0.05 cov=0.02 L1=0 L2=0 L3=1 reason=5
+767:AP: AI_STAT conf=0.10 lost=0 reproj=0.05 cov=0.02 L1=0 L2=0 L3=1 reason=5
+769:AP: AI_STAT conf=0.10 lost=0 reproj=0.05 cov=0.02 L1=0 L2=0 L3=1 reason=5
+771:AP: AI_STAT conf=0.10 lost=0 reproj=0.05 cov=0.02 L1=0 L2=0 L3=1 reason=5
+773:AP: AI_STAT conf=0.10 lost=0 reproj=0.05 cov=0.02 L1=0 L2=0 L3=1 reason=5
+777:AP: AI_STAT conf=0.10 lost=0 reproj=0.05 cov=0.02 L1=0 L2=0 L3=1 reason=5
+779:AP: AI_STAT conf=0.10 lost=0 reproj=0.05 cov=0.02 L1=0 L2=0 L3=1 reason=5
+781:AP: AI_STAT conf=0.10 lost=0 reproj=0.05 cov=0.02 L1=0 L2=0 L3=1 reason=5
+783:AP: AI_STAT conf=0.10 lost=0 reproj=0.05 cov=0.02 L1=0 L2=0 L3=1 reason=5
+785:AP: AI_STAT conf=0.10 lost=0 reproj=0.05 cov=0.02 L1=0 L2=0 L3=1 reason=5
+787:AP: AI_FISH cov=45.0 fish=32 tuna=88.5 bird=3 fps=12.5 size=640x480
+802:Got COMMAND_ACK: REQUEST_MESSAGE: ACCEPTED
+803:< COMMAND_ACK {command : 512, result : 0, progress : 0, result_param2 : 0, target_system : 255, target_component : 190}
+804:Got COMMAND_ACK: SET_MESSAGE_INTERVAL: ACCEPTED
+805:< COMMAND_ACK {command : 511, result : 0, progress : 0, result_param2 : 0, target_system : 255, target_component : 190}
+806:Got COMMAND_ACK: REQUEST_MESSAGE: ACCEPTED
+807:< COMMAND_ACK {command : 512, result : 0, progress : 0, result_param2 : 0, target_system : 255, target_component : 190}
+808:Got COMMAND_ACK: REQUEST_MESSAGE: ACCEPTED
+809:< COMMAND_ACK {command : 512, result : 0, progress : 0, result_param2 : 0, target_system : 255, target_component : 190}
+842:AP: AI_VISION_ACK_UNMATCHED cmd=31012 result=0 param2=0
+843:AP: AI_VISION_ACK_UNMATCHED cmd=31013 result=0 param2=0
+927:AP: AI_LANDING_CORR_INVALID flags=0 yaw_valid=0 distance_valid=0
+930:AP: AI_LANDING_CORR_INVALID flags=0 yaw_valid=0 distance_valid=0
+933:AP: AI_LANDING_CORR_INVALID flags=0 yaw_valid=0 distance_valid=0
+936:AP: AI_LANDING_CORR_INVALID flags=0 yaw_valid=0 distance_valid=0
+939:AP: AI_LANDING_CORR_INVALID flags=0 yaw_valid=0 distance_valid=0
+942:AP: AI_LANDING_CORR_INVALID flags=0 yaw_valid=0 distance_valid=0
+947:AP: AI_LANDING_CORR_INVALID flags=0 yaw_valid=0 distance_valid=0
+950:AP: AI_LANDING_CORR_INVALID flags=0 yaw_valid=0 distance_valid=0
+953:AP: AI_LANDING_CORR_INVALID flags=0 yaw_valid=0 distance_valid=0
+956:AP: AI_LANDING_CORR_INVALID flags=0 yaw_valid=0 distance_valid=0
+1029:AP: AI_LANDING_CORR_INVALID flags=0 yaw_valid=0 distance_valid=0
+1032:AP: AI_LANDING_CORR_INVALID flags=0 yaw_valid=0 distance_valid=0
+1035:AP: AI_LANDING_CORR_INVALID flags=0 yaw_valid=0 distance_valid=0
+1040:AP: AI_LANDING_CORR_INVALID flags=0 yaw_valid=0 distance_valid=0
+1043:AP: AI_LANDING_CORR_INVALID flags=0 yaw_valid=0 distance_valid=0
+1046:AP: AI_LANDING_CORR_INVALID flags=0 yaw_valid=0 distance_valid=0
+1049:AP: AI_LANDING_CORR_INVALID flags=0 yaw_valid=0 distance_valid=0
+1052:AP: AI_LANDING_CORR_INVALID flags=0 yaw_valid=0 distance_valid=0
+1055:AP: AI_LANDING_CORR_INVALID flags=0 yaw_valid=0 distance_valid=0
+1058:AP: AI_LANDING_CORR_INVALID flags=0 yaw_valid=0 distance_valid=0
+1104:AP: AI_STAT conf=0.40 lost=1 reproj=0.35 cov=0.25 L1=0 L2=0 L3=1 reason=5
+1105:AP: AI_LANDING_TAKEOVER reason=5
+1107:AP: AI_STAT conf=0.40 lost=1 reproj=0.35 cov=0.25 L1=0 L2=0 L3=1 reason=5
+1109:QLOITER> AP: AI_STAT conf=0.40 lost=1 reproj=0.35 cov=0.25 L1=0 L2=0 L3=1 reason=5
+1113:AP: AI_STAT conf=0.40 lost=1 reproj=0.35 cov=0.25 L1=0 L2=0 L3=1 reason=5
+1115:AP: AI_STAT conf=0.40 lost=1 reproj=0.35 cov=0.25 L1=0 L2=0 L3=1 reason=5
+1117:AP: AI_STAT conf=0.40 lost=1 reproj=0.35 cov=0.25 L1=0 L2=0 L3=1 reason=5
+1119:AP: AI_STAT conf=0.40 lost=1 reproj=0.35 cov=0.25 L1=0 L2=0 L3=1 reason=5
+1121:AP: AI_STAT conf=0.40 lost=1 reproj=0.35 cov=0.25 L1=0 L2=0 L3=1 reason=5
+1123:AP: AI_STAT conf=0.40 lost=1 reproj=0.35 cov=0.25 L1=0 L2=0 L3=1 reason=5
+1125:AP: AI_STAT conf=0.40 lost=1 reproj=0.35 cov=0.25 L1=0 L2=0 L3=1 reason=5
+1127:AP: AI_VISION_ACK_UNMATCHED cmd=31013 result=0 param2=0
+1128:AP: AI_STAT conf=0.10 lost=0 reproj=0.05 cov=0.02 L1=0 L2=0 L3=1 reason=5
+1130:AP: AI_STAT conf=0.10 lost=0 reproj=0.05 cov=0.02 L1=0 L2=0 L3=1 reason=5
+1132:AP: AI_STAT conf=0.10 lost=0 reproj=0.05 cov=0.02 L1=0 L2=0 L3=1 reason=5
+1136:AP: AI_STAT conf=0.10 lost=0 reproj=0.05 cov=0.02 L1=0 L2=0 L3=1 reason=5
+1138:AP: AI_STAT conf=0.10 lost=0 reproj=0.05 cov=0.02 L1=0 L2=0 L3=1 reason=5
+1141:AP: AI_STAT conf=0.10 lost=0 reproj=0.05 cov=0.02 L1=0 L2=0 L3=1 reason=5
+1143:AP: AI_STAT conf=0.10 lost=0 reproj=0.05 cov=0.02 L1=0 L2=0 L3=1 reason=5
+1145:AP: AI_STAT conf=0.10 lost=0 reproj=0.05 cov=0.02 L1=0 L2=0 L3=1 reason=5
+1147:AP: AI_STAT conf=0.10 lost=0 reproj=0.05 cov=0.02 L1=0 L2=0 L3=1 reason=5
+1149:AP: AI_STAT conf=0.10 lost=0 reproj=0.05 cov=0.02 L1=0 L2=0 L3=1 reason=5
+1155:AP: AI_FISH cov=45.0 fish=32 tuna=88.5 bird=3 fps=12.5 size=640x480
+1158:Got COMMAND_ACK: REQUEST_MESSAGE: ACCEPTED
+1159:< COMMAND_ACK {command : 512, result : 0, progress : 0, result_param2 : 0, target_system : 255, target_component : 190}
+1160:Got COMMAND_ACK: REQUEST_AUTOPILOT_CAPABILITIES: FAILED
+1161:< COMMAND_ACK {command : 520, result : 4, progress : 0, result_param2 : 0, target_system : 255, target_component : 190}
+1164:AP: AI_STAT conf=0.40 lost=1 reproj=0.35 cov=0.25 L1=0 L2=0 L3=1 reason=5
+1168:AP: AI_STAT conf=0.40 lost=1 reproj=0.35 cov=0.25 L1=0 L2=0 L3=1 reason=5
+1170:AP: AI_STAT conf=0.40 lost=1 reproj=0.35 cov=0.25 L1=0 L2=0 L3=1 reason=5
+1172:AP: AI_STAT conf=0.40 lost=1 reproj=0.35 cov=0.25 L1=0 L2=0 L3=1 reason=5
+1174:AP: AI_STAT conf=0.40 lost=1 reproj=0.35 cov=0.25 L1=0 L2=0 L3=1 reason=5
+1176:AP: AI_STAT conf=0.40 lost=1 reproj=0.35 cov=0.25 L1=0 L2=0 L3=1 reason=5
+1178:AP: AI_STAT conf=0.40 lost=1 reproj=0.35 cov=0.25 L1=0 L2=0 L3=1 reason=5
+1180:AP: AI_STAT conf=0.40 lost=1 reproj=0.35 cov=0.25 L1=0 L2=0 L3=1 reason=5
+1182:AP: AI_STAT conf=0.40 lost=1 reproj=0.35 cov=0.25 L1=0 L2=0 L3=1 reason=5
+1184:AP: AI_STAT conf=0.40 lost=1 reproj=0.35 cov=0.25 L1=0 L2=0 L3=1 reason=5
+1261:Got COMMAND_ACK: REQUEST_MESSAGE: ACCEPTED
+1262:< COMMAND_ACK {command : 512, result : 0, progress : 0, result_param2 : 0, target_system : 255, target_component : 190}
+1263:Got COMMAND_ACK: REQUEST_AUTOPILOT_CAPABILITIES: FAILED
+1264:< COMMAND_ACK {command : 520, result : 4, progress : 0, result_param2 : 0, target_system : 255, target_component : 190}
+1271:Got COMMAND_ACK: REQUEST_MESSAGE: ACCEPTED
+1272:< COMMAND_ACK {command : 512, result : 0, progress : 0, result_param2 : 0, target_system : 255, target_component : 190}
+1273:Got COMMAND_ACK: SET_MESSAGE_INTERVAL: ACCEPTED
+1274:< COMMAND_ACK {command : 511, result : 0, progress : 0, result_param2 : 0, target_system : 255, target_component : 190}
+1275:Got COMMAND_ACK: REQUEST_MESSAGE: ACCEPTED
+1276:< COMMAND_ACK {command : 512, result : 0, progress : 0, result_param2 : 0, target_system : 255, target_component : 190}
+1277:Got COMMAND_ACK: REQUEST_MESSAGE: ACCEPTED
+1278:< COMMAND_ACK {command : 512, result : 0, progress : 0, result_param2 : 0, target_system : 255, target_component : 190}
+1306:[EVENT] VALID_NORMAL
+1308:[RANDOM_EVENT] 1/40 name=event_valid_normal
+1309:[EVENT] VALID_NORMAL
+1311:[RANDOM_EVENT] 2/40 name=event_step_small
+1312:[EVENT] STEP_SMALL
+1314:[RANDOM_EVENT] 3/40 name=event_recover_valid
+1315:[EVENT] RECOVER_VALID
+1316:[RX_CMD] COMMAND_LONG command=512 target_system=0 target_component=0 param1=280.0 param2=0.0 param3=0.0
+1317:[RX_CMD_SKIP] command=512
+1319:[RANDOM_EVENT] 4/40 name=event_fish_valid
+1320:[EVENT] FISH_VALID_COMP211
+1321:[SEND_FISH] AI_FISH_DETECTION_RESULT src=211-valid fish=32 cov=45.0 tuna=88.5 bird=3 fps=12.5 size=640x480
+1322:[SEND_FISH] AI_FISH_DETECTION_RESULT src=211-valid fish=32 cov=45.0 tuna=88.5 bird=3 fps=12.5 size=640x480
+1323:[SEND_FISH] AI_FISH_DETECTION_RESULT src=211-valid fish=32 cov=45.0 tuna=88.5 bird=3 fps=12.5 size=640x480
+1325:[RANDOM_EVENT] 5/40 name=event_valid_normal
+1326:[EVENT] VALID_NORMAL
+1328:[RANDOM_EVENT] 6/40 name=event_invalid_flags
+1329:[EVENT] INVALID_FLAGS
+1331:[RANDOM_EVENT] 7/40 name=event_invalid_flags
+1332:[EVENT] INVALID_FLAGS
+1334:[RANDOM_EVENT] 8/40 name=event_valid_normal
+1335:[EVENT] VALID_NORMAL
+1337:[RANDOM_EVENT] 9/40 name=event_fish_valid
+1338:[EVENT] FISH_VALID_COMP211
+1339:[SEND_FISH] AI_FISH_DETECTION_RESULT src=211-valid fish=32 cov=45.0 tuna=88.5 bird=3 fps=12.5 size=640x480
+1340:[SEND_FISH] AI_FISH_DETECTION_RESULT src=211-valid fish=32 cov=45.0 tuna=88.5 bird=3 fps=12.5 size=640x480
+1341:[SEND_FISH] AI_FISH_DETECTION_RESULT src=211-valid fish=32 cov=45.0 tuna=88.5 bird=3 fps=12.5 size=640x480
+1343:[RANDOM_EVENT] 10/40 name=event_step_large
+1344:[EVENT] STEP_LARGE
+1346:[RANDOM_EVENT] 11/40 name=event_recover_valid
+1347:[EVENT] RECOVER_VALID
+1349:[RANDOM_EVENT] 12/40 name=event_l2_lost_high
+1350:[EVENT] BOUNDARY_LOST_HIGH_REPROJ_COV
+1352:[RANDOM_EVENT] 13/40 name=event_l2_lost_high
+1353:[EVENT] BOUNDARY_LOST_HIGH_REPROJ_COV
+1355:[RANDOM_EVENT] 14/40 name=event_step_large
+1356:[EVENT] STEP_LARGE
+1358:[RANDOM_EVENT] 15/40 name=event_l1_mild_conf
+1359:[EVENT] L1_MILD_CONF
+1361:[RANDOM_EVENT] 16/40 name=event_step_large
+1362:[EVENT] STEP_LARGE
+1364:[RANDOM_EVENT] 17/40 name=event_step_large
+1365:[EVENT] STEP_LARGE
+1367:[RANDOM_EVENT] 18/40 name=event_recover_valid
+1368:[EVENT] RECOVER_VALID
+1370:[RANDOM_EVENT] 19/40 name=event_l2_low_conf
+1371:[EVENT] BOUNDARY_LOW_CONF_L2
+1373:[RANDOM_EVENT] 20/40 name=<lambda>
+1374:[EVENT] PAUSE_NO_AI_TIMEOUT
+1376:[RANDOM_EVENT] 21/40 name=event_l2_low_conf
+1377:[EVENT] BOUNDARY_LOW_CONF_L2
+1379:[RANDOM_EVENT] 22/40 name=event_fish_valid
+1380:[EVENT] FISH_VALID_COMP211
+1381:[SEND_FISH] AI_FISH_DETECTION_RESULT src=211-valid fish=32 cov=45.0 tuna=88.5 bird=3 fps=12.5 size=640x480
+1382:[SEND_FISH] AI_FISH_DETECTION_RESULT src=211-valid fish=32 cov=45.0 tuna=88.5 bird=3 fps=12.5 size=640x480
+1383:[SEND_FISH] AI_FISH_DETECTION_RESULT src=211-valid fish=32 cov=45.0 tuna=88.5 bird=3 fps=12.5 size=640x480
+1385:[RANDOM_EVENT] 23/40 name=event_step_small
+1386:[EVENT] STEP_SMALL
+1388:[RANDOM_EVENT] 24/40 name=event_valid_normal
+1389:[EVENT] VALID_NORMAL
+1391:[RANDOM_EVENT] 25/40 name=event_step_small
+1392:[EVENT] STEP_SMALL
+1394:[RANDOM_EVENT] 26/40 name=event_recover_valid
+1395:[EVENT] RECOVER_VALID
+1397:[RANDOM_EVENT] 27/40 name=event_step_large
+1398:[EVENT] STEP_LARGE
+1400:[RANDOM_EVENT] 28/40 name=event_step_small
+1401:[EVENT] STEP_SMALL
+1403:[RANDOM_EVENT] 29/40 name=event_invalid_flags
+1404:[EVENT] INVALID_FLAGS
+1406:[RANDOM_EVENT] 30/40 name=event_recover_valid
+1407:[EVENT] RECOVER_VALID
+1409:[RANDOM_EVENT] 31/40 name=event_valid_normal
+1410:[EVENT] VALID_NORMAL
+1412:[RANDOM_EVENT] 32/40 name=event_valid_normal
+1413:[EVENT] VALID_NORMAL
+1415:[RANDOM_EVENT] 33/40 name=event_invalid_flags
+1416:[EVENT] INVALID_FLAGS
+1418:[RANDOM_EVENT] 34/40 name=event_valid_normal
+1419:[EVENT] VALID_NORMAL
+1421:[RANDOM_EVENT] 35/40 name=event_step_large
+1422:[EVENT] STEP_LARGE
+1424:[RANDOM_EVENT] 36/40 name=event_l2_lost_high
+1425:[EVENT] BOUNDARY_LOST_HIGH_REPROJ_COV
+1427:[RANDOM_EVENT] 37/40 name=event_fish_valid
+1428:[EVENT] FISH_VALID_COMP211
+1429:[SEND_FISH] AI_FISH_DETECTION_RESULT src=211-valid fish=32 cov=45.0 tuna=88.5 bird=3 fps=12.5 size=640x480
+1430:[SEND_FISH] AI_FISH_DETECTION_RESULT src=211-valid fish=32 cov=45.0 tuna=88.5 bird=3 fps=12.5 size=640x480
+1431:[SEND_FISH] AI_FISH_DETECTION_RESULT src=211-valid fish=32 cov=45.0 tuna=88.5 bird=3 fps=12.5 size=640x480
+1433:[RANDOM_EVENT] 38/40 name=event_recover_valid
+1434:[EVENT] RECOVER_VALID
+1436:[RANDOM_EVENT] 39/40 name=event_l2_low_conf
+1437:[EVENT] BOUNDARY_LOW_CONF_L2
+1439:[RANDOM_EVENT] 40/40 name=<lambda>
+1440:[EVENT] PAUSE_NO_AI_TIMEOUT
+1441:[EVENT] RECOVER_VALID
+1442:[RX_CMD] COMMAND_LONG command=512 target_system=0 target_component=0 param1=280.0 param2=0.0 param3=0.0
+1443:[RX_CMD_SKIP] command=512
